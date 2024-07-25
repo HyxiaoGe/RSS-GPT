@@ -1,6 +1,12 @@
-name: Test Workflow
+name: cron_job
 
-on: [push, workflow_dispatch]
+# Controls when the workflow will run
+on:
+  # cron job every 2 hours
+  schedule:
+   - cron: '*/1 * * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   test_job:
