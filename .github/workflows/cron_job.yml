@@ -3,7 +3,7 @@ name: cron_job
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Runs every 2 hours
+    - cron: '*/2 * * * *'  # Runs every 2 hours
   workflow_dispatch:  # Allows manual trigger from the Actions tab
 
 jobs:
