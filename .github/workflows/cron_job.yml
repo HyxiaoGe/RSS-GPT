@@ -1,15 +1,24 @@
 name: cron_job
 
-# Controls when the workflow will run
 on:
   schedule:
-    - cron: '*/2 * * * *'  # Runs every 2 hours
-  workflow_dispatch:  # Allows manual trigger from the Actions tab
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
 
 jobs:
-  test_job:
+  build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.WORK_TOKEN }}
+      
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+
       - name: Hello World
         run: echo "Hello World from GitHub Actions"
