@@ -1,4 +1,4 @@
-name: cron_job
+name: test_cron_job
 
 # Controls when the workflow will run
 on:
