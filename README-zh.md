@@ -63,4 +63,4 @@
 - https://nesslabs.com/feed -> https://HyxiaoGe.github.io/RSS-GPT/ness-labs.xml
 - https://rsshub.app/aliresearch/information -> https://HyxiaoGe.github.io/RSS-GPT/aliresearch.xml
 - https://rsshub.app/bendibao/news/sz -> https://HyxiaoGe.github.io/RSS-GPT/bdb-sz.xml
-- https://rsshub.app/chaping/banner -> https://HyxiaoGe.github.io/RSS-GPT/chaping.xml
+- https://rsshub.app/chaping/newsflash -> https://HyxiaoGe.github.io/RSS-GPT/chaping.xml
