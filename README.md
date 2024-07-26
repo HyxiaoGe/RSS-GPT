@@ -61,7 +61,7 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 - https://rsshub.app/36kr/motif/327685554177, https://rsshub.app/36kr/motif/327687077889, https://rsshub.app/36kr/motif/1366661828936836, https://rsshub.app/36kr/motif/1366662419875203, https://rsshub.app/36kr/motif/1756302767423108, https://rsshub.app/36kr/motif/327686815745, https://rsshub.app/36kr/motif/327685734401 -> https://HyxiaoGe.github.io/RSS-GPT/36kr.xml
 - https://rsshub.app/36kr/motif/327686782977 -> https://HyxiaoGe.github.io/RSS-GPT/36kr-ai.xml
 - https://rsshub.app/paulgraham/articles -> https://HyxiaoGe.github.io/RSS-GPT/paul-graham.xml
-- https://nesslabs.com/feed -> https://HyxiaoGe.github.io/RSS-GPT/ness-labs.xml
+- https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ, https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw -> https://HyxiaoGe.github.io/RSS-GPT/youtube.xml
 - https://rsshub.app/aliresearch/information -> https://HyxiaoGe.github.io/RSS-GPT/aliresearch.xml
 - https://rsshub.app/bendibao/news/sz -> https://HyxiaoGe.github.io/RSS-GPT/bdb-sz.xml
 - https://rsshub.app/chaping/newsflash -> https://HyxiaoGe.github.io/RSS-GPT/chaping.xml
