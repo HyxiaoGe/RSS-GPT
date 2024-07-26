@@ -28552,3 +28552,12 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-07-26 10:02:47.996357
+------------------------------------------------------
+Started: 2024-07-26 11:03:21.855599
+Existing_entries: 1000
+Fetching from https://rsshub.app/sspai/index
+Token length: 5261
+Summarized using gpt-4o-mini
+Append: [如何制作一款字形输入法](https://sspai.com/post/90816)
+append_entries: 1
+Finish: 2024-07-26 11:03:40.614680
