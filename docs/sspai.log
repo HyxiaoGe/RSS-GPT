@@ -28573,3 +28573,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-07-26 13:04:21.865387
+------------------------------------------------------
+Started: 2024-07-26 14:02:44.689439
+Existing_entries: 1000
+Fetching from https://rsshub.app/sspai/index
+Token length: 7797
+Summarized using gpt-4o-mini
+Append: [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/90868)
+Token length: 2541
+Summarized using gpt-4o-mini
+Append: [少数派编辑部怎么用 AI 打工？](https://sspai.com/post/90865)
+append_entries: 2
+Finish: 2024-07-26 14:02:54.596628
