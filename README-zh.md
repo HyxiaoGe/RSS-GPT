@@ -61,6 +61,6 @@
 - https://rsshub.app/36kr/motif/327686782977 -> https://HyxiaoGe.github.io/RSS-GPT/36kr-ai.xml
 - https://rsshub.app/paulgraham/articles -> https://HyxiaoGe.github.io/RSS-GPT/paul-graham.xml
 - https://nesslabs.com/feed -> https://HyxiaoGe.github.io/RSS-GPT/ness-labs.xml
-- https://nesslabs.com/feed -> https://HyxiaoGe.github.io/RSS-GPT/ness-labs.xml
+- https://rsshub.app/aliresearch/information -> https://HyxiaoGe.github.io/RSS-GPT/aliresearch.xml
 - https://rsshub.app/bendibao/news/sz -> https://HyxiaoGe.github.io/RSS-GPT/bdb-sz.xml
 - https://rsshub.app/chaping/banner -> https://HyxiaoGe.github.io/RSS-GPT/chaping.xml

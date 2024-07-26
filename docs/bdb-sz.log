@@ -18,3 +18,9 @@ Append: [2024年深圳买车补贴政策（持续更新）](https://sz.bendibao.
 Append: [深圳政府和事业单位最新招聘信息汇总(持续更新)](http://sz.bendibao.com/job/202285/896694.shtm)
 append_entries: 10
 Finish: 2024-07-26 08:07:47.883103
+------------------------------------------------------
+Started: 2024-07-26 08:24:11.971713
+Existing_entries: 10
+Fetching from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+Finish: 2024-07-26 08:24:12.013148
