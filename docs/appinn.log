@@ -32311,3 +32311,17 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-07-27 17:02:21.873950
+------------------------------------------------------
+Started: 2024-07-27 18:02:53.411150
+Existing_entries: 496
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetch error: 502
+Fetch failed from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetch error: 502
+Fetch failed from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Fetch error: 502
+Fetch failed from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+error when rendering xml, skip docs/appinn
