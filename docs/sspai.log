@@ -28963,3 +28963,15 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-07-29 04:02:59.930564
+------------------------------------------------------
+Started: 2024-07-29 05:03:59.530697
+Existing_entries: 1000
+Fetching from https://rsshub.app/sspai/index
+Token length: 3602
+Summarized using gpt-4o-mini
+Append: [派早报：淘宝天猫收取软件服务费，放松仅退款规则](https://sspai.com/post/90898)
+Token length: 1891
+Summarized using gpt-4o-mini
+Append: [铝型材 DIY 实录：做一个和桌面更搭的电脑支架](https://sspai.com/post/90884)
+append_entries: 2
+Finish: 2024-07-29 05:04:05.640684
