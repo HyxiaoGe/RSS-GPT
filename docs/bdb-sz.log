@@ -628,3 +628,10 @@ Existing_entries: 20
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-07-30 11:02:37.654215
+------------------------------------------------------
+Started: 2024-07-30 12:04:07.543871
+Existing_entries: 20
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [央行7月31日起陆续发行东北虎豹国家公园纪念币](http://sz.bendibao.com/news/2024730/976908.htm)
+append_entries: 1
+Finish: 2024-07-30 12:04:07.595005
