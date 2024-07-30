@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>值得一读技术博客</title>
+<link>https://daily-blog.chlinlearn.top/blogs/1</link>
+
+<item>
+<title>链路级资损防控之资损字段防控实践</title>
+<link>https://mp.weixin.qq.com/s/M4Vo7GYPgu6Mi6bEQVyRdw</link>
+<guid>https://mp.weixin.qq.com/s/M4Vo7GYPgu6Mi6bEQVyRdw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>看完这篇，你的API服务设计能力将再次进化!</title>
+<link>https://mp.weixin.qq.com/s/z13M-WXwhaehIUqVqSuvuw</link>
+<guid>https://mp.weixin.qq.com/s/z13M-WXwhaehIUqVqSuvuw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>@Schedule 定时任务+分布式环境，这些坑你一定得注意！！！</title>
+<link>https://mp.weixin.qq.com/s/dFp77sE8rzi8o3aMHHaK7g</link>
+<guid>https://mp.weixin.qq.com/s/dFp77sE8rzi8o3aMHHaK7g</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>货拉拉iOS疑难Crash治理-系统键盘语音</title>
+<link>https://mp.weixin.qq.com/s/edBvCqeI2dIfif0RCiFnjg</link>
+<guid>https://mp.weixin.qq.com/s/edBvCqeI2dIfif0RCiFnjg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Stream原理与执行流程探析</title>
+<link>https://mp.weixin.qq.com/s/UGWoRO5-pFB0p01mc73wLA</link>
+<guid>https://mp.weixin.qq.com/s/UGWoRO5-pFB0p01mc73wLA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>淘宝测试环境治理实践</title>
+<link>https://mp.weixin.qq.com/s/lcSwefXqfHq37ShFBi2oaA</link>
+<guid>https://mp.weixin.qq.com/s/lcSwefXqfHq37ShFBi2oaA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Linux 管道命令与文本处理代码解读</title>
+<link>https://mp.weixin.qq.com/s/iUk6_kzocdsr6G9PMWRgjA</link>
+<guid>https://mp.weixin.qq.com/s/iUk6_kzocdsr6G9PMWRgjA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>深入了解Linux磁盘IO性能优化</title>
+<link>https://www.yunweipai.com/46696.html</link>
+<guid>https://www.yunweipai.com/46696.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>记一次大库大表的治理过程</title>
+<link>https://mp.weixin.qq.com/s/tr63TaHgL90HFVWcTcLNFA</link>
+<guid>https://mp.weixin.qq.com/s/tr63TaHgL90HFVWcTcLNFA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 28 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 28 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Zustand 源码解析</title>
+<link>https://mp.weixin.qq.com/s/gx25qMHIE3GuAa5JVwaryA</link>
+<guid>https://mp.weixin.qq.com/s/gx25qMHIE3GuAa5JVwaryA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 28 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 28 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>需求分析：如何从复杂的需求中抽象出核心问题？</title>
+<link>https://api.woshipm.com/share/6089926.html</link>
+<guid>https://api.woshipm.com/share/6089926.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 28 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 28 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>从13个原则好好聊一聊产品设计</title>
+<link>https://api.woshipm.com/pd/6085743.html</link>
+<guid>https://api.woshipm.com/pd/6085743.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 28 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 28 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>公司新来一个架构师， 将消费金融系统重构了</title>
+<link>https://juejin.cn/post/7356550566535495732</link>
+<guid>https://juejin.cn/post/7356550566535495732</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 28 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 28 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>B端常用交互方式的量化及优化实践和指引</title>
+<link>https://mp.weixin.qq.com/s/GtGQqDvDzU6A-qtwNPKWqQ</link>
+<guid>https://mp.weixin.qq.com/s/GtGQqDvDzU6A-qtwNPKWqQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>LLM推理加速：decode阶段的Attention在GPU上的优化</title>
+<link>https://mp.weixin.qq.com/s/Sek1cnmPshuk9kK-XR59iw</link>
+<guid>https://mp.weixin.qq.com/s/Sek1cnmPshuk9kK-XR59iw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>自研点直播转码核心</title>
+<link>https://mp.weixin.qq.com/s/7Y1QjEZ20j-ufwbQIBvaTQ</link>
+<guid>https://mp.weixin.qq.com/s/7Y1QjEZ20j-ufwbQIBvaTQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>爱奇艺广告特征评估流程优化实践</title>
+<link>https://mp.weixin.qq.com/s/sDjNxE_CmZYzJy9CKUM2zA</link>
+<guid>https://mp.weixin.qq.com/s/sDjNxE_CmZYzJy9CKUM2zA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>从C端到B端：我的前端技术进阶之路</title>
+<link>https://mp.weixin.qq.com/s/KN6T3mStXU9Fz4OcPVLLtQ</link>
+<guid>https://mp.weixin.qq.com/s/KN6T3mStXU9Fz4OcPVLLtQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>深入探索MySQL索引策略</title>
+<link>https://mp.weixin.qq.com/s/XpukKx9Ovl4bqil8cNDP0g</link>
+<guid>https://mp.weixin.qq.com/s/XpukKx9Ovl4bqil8cNDP0g</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>业务代码里的 TypeScript 小技巧</title>
+<link>https://mp.weixin.qq.com/s/4tM37jZDHftkWKvGncVgIw</link>
+<guid>https://mp.weixin.qq.com/s/4tM37jZDHftkWKvGncVgIw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+<pubDate>Fri, 26 Jul 2024 16:00:00 GMT</pubDate>
+</item>
+
+</channel>
+</rss>
