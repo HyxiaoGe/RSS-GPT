@@ -70,3 +70,4 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 - https://rsshub.app/chlinlearn/daily-blog -> https://HyxiaoGe.github.io/RSS-GPT/chlinlearn.xml
 - https://rsshub.app/meituan/tech -> https://HyxiaoGe.github.io/RSS-GPT/meituan-tech.xml
 - https://rsshub.app/piyao/jrpy -> https://HyxiaoGe.github.io/RSS-GPT/piyao.xml
+- https://rsshub.app/deeplearning/thebatch -> https://HyxiaoGe.github.io/RSS-GPT/deeplearning.xml

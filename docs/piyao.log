@@ -24,3 +24,9 @@ Append: [今日辟谣（2024年7月4日）](https://www.piyao.org.cn/20240704/08
 Append: [今日辟谣（2024年7月3日）](https://www.piyao.org.cn/20240703/185ed2536ab64329a26fcc16664b606c/c.html)
 append_entries: 20
 Finish: 2024-07-30 17:03:10.932482
+------------------------------------------------------
+Started: 2024-07-30 18:03:12.165187
+Existing_entries: 20
+Fetching from https://rsshub.app/piyao/jrpy
+append_entries: 0
+Finish: 2024-07-30 18:03:12.351819
