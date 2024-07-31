@@ -129,3 +129,9 @@ Append: [首批非中国籍港澳居民往来大陆通行证发放](https://www.
 Append: [中国财政部：推进消费税征收环节后移并稳步下划地方](https://www.zaobao.com/realtime/china/story20240731-4402782)
 append_entries: 7
 Finish: 2024-07-31 07:03:16.117611
+------------------------------------------------------
+Started: 2024-07-31 08:03:03.771391
+Existing_entries: 41
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-07-31 08:03:03.823512
