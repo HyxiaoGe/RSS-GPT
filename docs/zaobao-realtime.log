@@ -78,3 +78,9 @@ Append: [王瑛玮任天津副市长兼公安局长](https://www.zaobao.com/real
 Append: [湖南衡阳一工厂爆炸导致两死一伤](https://www.zaobao.com/realtime/china/story20240731-4402137)
 append_entries: 2
 Finish: 2024-07-31 01:22:22.038966
+------------------------------------------------------
+Started: 2024-07-31 02:05:54.783915
+Existing_entries: 26
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-07-31 02:05:54.846366
