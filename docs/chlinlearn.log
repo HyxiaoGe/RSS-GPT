@@ -168,3 +168,18 @@ Existing_entries: 26
 Fetching from https://rsshub.app/chlinlearn/daily-blog
 append_entries: 0
 Finish: 2024-07-31 16:04:24.506553
+------------------------------------------------------
+Started: 2024-08-01 06:04:01.823435
+Existing_entries: 26
+Fetching from https://rsshub.app/chlinlearn/daily-blog
+Append: [得物Flink内核探索实践](https://mp.weixin.qq.com/s/Ng4nziQ5qSS4TWHu4PFMZg)
+Append: [测试环境领域到测试环境产品](https://mp.weixin.qq.com/s/RJHbLTprD5fNZN_g6fHSYw)
+Append: [18 个一线工作中常用 Shell 脚本， 太好用啦！](https://mp.weixin.qq.com/s/Xr6XRSq8vzQRcrRdC8oz5w)
+Append: [转转门店基于MQ的Http重试实践](https://mp.weixin.qq.com/s/gf2vOCk2a6RBwrw4le5x4g)
+Append: [场景执行工具：Java](https://mp.weixin.qq.com/s/LZ50iwoyocedc_DvjgEPPg)
+Append: [写了个 b 站 banner 的鼠标跟随动画效果](https://juejin.cn/post/7369535515292532770)
+Append: [小程序和h5有什么差别](https://juejin.cn/post/7389168680747614245)
+Append: [驱动开发：取进程模块的函数地址](https://www.cnblogs.com/LyShark/p/17152894.html)
+Append: [AI大语言模型10大安全风险的思考](https://www.freebuf.com/articles/network/406830.html)
+append_entries: 9
+Finish: 2024-08-01 06:04:01.909443
