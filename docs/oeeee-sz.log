@@ -380,3 +380,15 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-08-02 07:02:47.164344
+Existing_entries: 86
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深新闻】2024年跳绳亚锦赛落下帷幕，深圳这所学校跳绳队狂揽奖牌](https://m.mp.oeeee.com/oe/BAAFRD000020240802982051.html)
+Append: [【深新闻】深圳力争开放无人机适飞空域占比超七成，低空商业航线破千条](https://m.mp.oeeee.com/oe/BAAFRD000020240802982039.html)
+Append: [【深新闻】于德江接受纪律审查和监察调查](https://m.mp.oeeee.com/oe/BAAFRD000020240802982031.html)
+Append: [【深新闻】直达欧洲之心！深圳开通布达佩斯航线](https://m.mp.oeeee.com/oe/BAAFRD000020240802982013.html)
+Append: [【深新闻】狮城捷报！深圳交响乐团童声儿童友好合唱团喜摘双金](https://m.mp.oeeee.com/oe/BAAFRD000020240802982011.html)
+Append: [【深新闻】休闲旅游船失去动力，6游客海上遇险](https://m.mp.oeeee.com/oe/BAAFRD000020240802981999.html)
+append_entries: 6
+Finish: 2024-08-02 07:02:47.418651
