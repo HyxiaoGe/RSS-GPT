@@ -29509,3 +29509,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-08-02 07:02:38.960728
+------------------------------------------------------
+Started: 2024-08-02 08:03:23.923885
+Existing_entries: 1000
+Fetching from https://rsshub.app/sspai/index
+Append: [2024年，如何优雅的使用 Windows PC](https://sspai.com/post/90272)
+append_entries: 1
+Finish: 2024-08-02 08:03:24.262397
