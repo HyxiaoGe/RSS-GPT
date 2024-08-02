@@ -29541,3 +29541,11 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-08-02 12:03:49.663019
+------------------------------------------------------
+Started: 2024-08-02 13:04:48.544355
+Existing_entries: 1000
+Fetching from https://rsshub.app/sspai/index
+Append: [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/91111)
+Append: [七夕送礼不抓狂，这是派商店为你准备的送礼清单](https://sspai.com/post/91092)
+append_entries: 2
+Finish: 2024-08-02 13:04:48.786683
