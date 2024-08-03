@@ -638,3 +638,9 @@ Append: [传赖清德出访在即 台总统府：不实叙述误导民众](https
 Append: [中国多地最高温达40摄氏度 广东97个高温预警生效](https://www.zaobao.com/realtime/china/story20240803-4420958)
 append_entries: 4
 Finish: 2024-08-03 13:03:36.605639
+------------------------------------------------------
+Started: 2024-08-03 14:03:30.795892
+Existing_entries: 160
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-03 14:03:30.861687
