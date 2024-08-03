@@ -540,3 +540,9 @@ Append: [加军舰过航台湾海峡 中国大陆国防部批刷存在感](https
 Append: [陕西桥梁垮塌事故已确认38人遇难24人失联](https://www.zaobao.com/realtime/china/story20240803-4419472)
 append_entries: 2
 Finish: 2024-08-03 01:29:27.572303
+------------------------------------------------------
+Started: 2024-08-03 02:16:25.625538
+Existing_entries: 134
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-03 02:16:25.688889
