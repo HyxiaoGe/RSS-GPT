@@ -932,3 +932,9 @@ Append: [标普香港PMI连续三个月低于荣枯线](https://www.zaobao.com/r
 Append: [财新PMI显示中国7月服务业扩张提速](https://www.zaobao.com/realtime/china/story20240805-4426906)
 append_entries: 7
 Finish: 2024-08-05 07:02:57.323532
+------------------------------------------------------
+Started: 2024-08-05 08:05:39.187706
+Existing_entries: 202
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-05 08:05:39.268702
