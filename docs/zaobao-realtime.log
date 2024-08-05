@@ -907,3 +907,9 @@ Append: [旅游大巴意大利发生意外中国导游死亡](https://www.zaobao
 Append: [中国海警跟监和管控仙宾礁海域菲律宾船只](https://www.zaobao.com/realtime/china/story20240805-4426137)
 append_entries: 8
 Finish: 2024-08-05 04:03:17.745560
+------------------------------------------------------
+Started: 2024-08-05 05:03:16.380315
+Existing_entries: 195
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-05 05:03:16.452352
