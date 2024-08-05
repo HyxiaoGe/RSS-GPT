@@ -747,3 +747,11 @@ Existing_entries: 17
 Fetching from https://rsshub.app/deeplearning/thebatch
 append_entries: 0
 Finish: 2024-08-05 08:06:11.140276
+------------------------------------------------------
+Started: 2024-08-05 09:03:31.976732
+Existing_entries: 17
+Fetching from https://rsshub.app/deeplearning/thebatch
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/deeplearning/thebatch
+append_entries: 0
+error when rendering xml, skip docs/deeplearning
