@@ -1151,3 +1151,12 @@ Existing_entries: 247
 Fetching from https://rsshub.app/zaobao/realtime/china
 append_entries: 0
 Finish: 2024-08-06 12:04:04.305706
+------------------------------------------------------
+Started: 2024-08-06 13:05:06.171456
+Existing_entries: 247
+Fetching from https://rsshub.app/zaobao/realtime/china
+Append: [中国6月汽车整车进口同比下降2.4%](https://www.zaobao.com/realtime/china/story20240806-4433334)
+Append: [台外长感谢危地马拉协助台湾参与世界卫生大会等](https://www.zaobao.com/realtime/china/story20240806-4433151)
+Append: [中国驻美大使：优化经济结构面临的烦恼 努力可克服](https://www.zaobao.com/realtime/china/story20240806-4432746)
+append_entries: 3
+Finish: 2024-08-06 13:05:06.257888

@@ -4,18 +4,16 @@
 <title>美团技术团队</title>
 <link>https://tech.meituan.com</link>
 
+
 <item>
 <title>SIGIR 2024 | 美团技术团队精选论文解读</title>
 <link>https://tech.meituan.com/2024/06/27/sigir-2024-meituan.html</link>
 <guid>https://tech.meituan.com/2024/06/27/sigir-2024-meituan.html</guid>
 <content:encoded><![CDATA[
-
 本文精选了美团技术团队被SIGIR 2024收录的3篇论文进行解读，第一篇论文围绕如何利用深度学习，来整合广告拍卖和混排；第二篇论文扩展定义了全用户纵向联邦推荐范式，并首次提出基于检索增强的纵向联邦推荐框架ReFer，解决了跨域特征缺失问题；第三篇论文提出了一种新颖的框架——解耦对比超图学习，并应用于下一个兴趣点推荐任务中。
 ]]></content:encoded>
 <pubDate>Wed, 26 Jun 2024 16:00:00 GMT</pubDate>
-<pubDate>Wed, 26 Jun 2024 16:00:00 GMT</pubDate>
 </item>
-
 <item>
 <title>KDD 2024 | 美团技术团队精选论文解读</title>
 <link>https://tech.meituan.com/2024/07/26/kdd-2024.html</link>
