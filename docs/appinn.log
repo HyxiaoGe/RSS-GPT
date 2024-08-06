@@ -34040,3 +34040,11 @@ Fetching from https://meta.appinn.net/tag/macos.rss
 Append: [[开发者自荐] FlowVision: 瀑布流式 macOS 看图软件](https://meta.appinn.net/t/topic/59251)
 append_entries: 1
 Finish: 2024-08-06 04:04:05.639341
+------------------------------------------------------
+Started: 2024-08-06 05:02:30.803984
+Existing_entries: 507
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-08-06 05:02:34.439161
