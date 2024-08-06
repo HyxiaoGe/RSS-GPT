@@ -1135,3 +1135,19 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-08-06 17:03:52.390722
+Existing_entries: 197
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深新闻】南山少年登上造价2.2亿元直升机！构想未来“低空经济”](https://m.mp.oeeee.com/oe/BAAFRD000020240806983451.html)
+Append: [【深新闻】少年登上造价2.2亿元直升机 启航调研“低空经济”](https://m.mp.oeeee.com/oe/BAAFRD000020240806983450.html)
+Append: [【深圳街坊】光明区活力运动地图来了！超多线路等你来get](http://www.oeeee.com/html/202408/06/1519952.html)
+Append: [【深新闻】小心登革热！深圳今年首份“蚊子地图”曝光，看看有没有你家](https://m.mp.oeeee.com/oe/BAAFRD000020240806983422.html)
+Append: [【深新闻】发放数百万元“体育惠民券”，这个暑假，来罗湖薅羊毛](https://m.mp.oeeee.com/oe/BAAFRD000020240806983404.html)
+Append: [【深新闻】光明区举办2024年出生缺陷综合防控项目管理和技能培训班](https://m.mp.oeeee.com/oe/BAAFRD000020240806983398.html)
+Append: [【深新闻】深圳市妇幼健康督导专家组莅临光明妇幼开展相关评估工作](https://m.mp.oeeee.com/oe/BAAFRD000020240806983394.html)
+Append: [【深新闻】跨越1800公里续接手臂，深圳铁路乘警护送患者赴北京就医](https://m.mp.oeeee.com/oe/BAAFRD000020240806983357.html)
+Append: [【深新闻】8月14日起启用！可在深圳爱康健口腔医院使用长者医疗券](https://m.mp.oeeee.com/oe/BAAFRD000020240806983321.html)
+Append: [【深新闻】从阿勒泰到鹏城！被深圳人帮助的新疆少女跨越万里来“探亲”](https://m.mp.oeeee.com/oe/BAAFRD000020240805982976.html)
+append_entries: 10
+Finish: 2024-08-06 17:03:53.073959
