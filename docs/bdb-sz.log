@@ -1710,3 +1710,9 @@ Append: [2024深圳蛇口邮轮母港暑假航班时刻表](https://sz.bendibao.
 Append: [深圳七夕烟花表演时间](https://sz.bendibao.com/news/202486/977185.htm)
 append_entries: 5
 Finish: 2024-08-07 08:06:05.578771
+------------------------------------------------------
+Started: 2024-08-07 09:04:06.088062
+Existing_entries: 46
+Fetching from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+Finish: 2024-08-07 09:04:06.141446

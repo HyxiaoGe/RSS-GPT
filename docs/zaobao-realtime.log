@@ -1299,3 +1299,9 @@ Append: [中国7月出口同比增7% 连续第四个月增长](https://www.zaoba
 Append: [伊利辟谣女乒决赛做侮辱性手势女子为公司员工](https://www.zaobao.com/realtime/china/story20240807-4438076)
 append_entries: 9
 Finish: 2024-08-07 08:06:05.925186
+------------------------------------------------------
+Started: 2024-08-07 09:04:06.437752
+Existing_entries: 275
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-07 09:04:06.524384
