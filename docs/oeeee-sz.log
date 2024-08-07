@@ -1225,3 +1225,17 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-08-07 06:03:43.164730
+Existing_entries: 207
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深圳街坊】西乡街道以“三坚持”扎实开展党纪学习教育 推进纪检监察工作高质量发展](http://www.oeeee.com/html/202408/07/1520134.html)
+Append: [【深圳街坊】宝安图书馆燕罗街道分馆开展“图书馆+非遗”系列活动](http://www.oeeee.com/html/202408/07/1520132.html)
+Append: [【深圳街坊】光明区首个街道级未成年人综合保护工作站启用](http://www.oeeee.com/html/202408/07/1520131.html)
+Append: [【深圳街坊】不只浪漫，光明街道这场金婚银婚纪念活动很出圈](http://www.oeeee.com/html/202408/07/1520130.html)
+Append: [【深新闻】21岁“彤姐”亮相奥运赛场！来自深圳，明天冲击决赛](https://m.mp.oeeee.com/oe/BAAFRD000020240807983582.html)
+Append: [【深新闻】深圳劳动争议案件受理量增幅快速下降](https://m.mp.oeeee.com/oe/BAAFRD000020240807983581.html)
+Append: [【深新闻】一个月胖了20斤，13岁男孩暴饮暴食后引发急性重症胰腺炎](https://m.mp.oeeee.com/oe/BAAFRD000020240807983579.html)
+Append: [【深新闻】河套又一批高品质科研空间批量投入使用](https://m.mp.oeeee.com/oe/BAAFRD000020240806983506.html)
+append_entries: 8
+Finish: 2024-08-07 06:03:43.531681
