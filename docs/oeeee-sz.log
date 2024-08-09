@@ -1618,3 +1618,11 @@ Existing_entries: 276
 Fetching from https://rsshub.app/oeeee/web/170
 append_entries: 0
 Finish: 2024-08-09 11:02:49.837428
+------------------------------------------------------
+Started: 2024-08-09 12:06:30.727000
+Existing_entries: 276
+Fetching from https://rsshub.app/oeeee/web/170
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/oeeee/web/170
+append_entries: 0
+error when rendering xml, skip docs/oeeee-sz
