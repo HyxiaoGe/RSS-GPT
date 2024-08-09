@@ -1628,3 +1628,9 @@ Append: [英航10月停飞往来北京航班](https://www.zaobao.com/realtime/ch
 Append: [美国将五中企列入强迫维吾尔人劳动法实体清单](https://www.zaobao.com/realtime/china/story20240809-4448255)
 append_entries: 6
 Finish: 2024-08-09 05:04:53.357549
+------------------------------------------------------
+Started: 2024-08-09 06:03:48.720559
+Existing_entries: 334
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-09 06:03:48.818380
