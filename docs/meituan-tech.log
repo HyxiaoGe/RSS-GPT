@@ -1339,3 +1339,11 @@ Existing_entries: 21
 Fetching from https://rsshub.app/meituan/tech
 append_entries: 0
 Finish: 2024-08-09 09:03:57.274250
+------------------------------------------------------
+Started: 2024-08-09 10:04:24.365655
+Existing_entries: 21
+Fetching from https://rsshub.app/meituan/tech
+Append: [ACL 2024 | 美团技术团队精选论文解读](https://tech.meituan.com/2024/08/09/acl-2024-meituan.html)
+Append: [大众点评技术部包揽KDD 2024 OAG-Challenge Cup赛道全部3项冠军](https://tech.meituan.com/2024/08/09/kdd-2024-oag-challenge-cup.html)
+append_entries: 2
+Finish: 2024-08-09 10:04:24.499695
