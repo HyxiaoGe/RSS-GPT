@@ -1626,3 +1626,18 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-08-09 13:05:24.639980
+Existing_entries: 276
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深新闻】“万物可送”！高德秒送“四轮直送”覆盖深圳等城](https://m.mp.oeeee.com/oe/BAAFRD000020240809984685.html)
+Append: [【深新闻】“醉甜”第一会10月在深圳举行 超4200家企业参展](https://m.mp.oeeee.com/oe/BAAFRD000020240809984682.html)
+Append: [【深新闻】光明妇幼顺利举办光明区2024年母乳喂养宣传周公益活动](https://m.mp.oeeee.com/oe/BAAFRD000020240809984681.html)
+Append: [【深新闻】努力是最好的天赋，中澳实验学校学生被中国美术学院录取！](https://m.mp.oeeee.com/oe/BAAFRD000020240809984662.html)
+Append: [【深新闻】南山少年调研低空经济，争当行业“领头羊”](https://m.mp.oeeee.com/oe/BAAFRD000020240809984635.html)
+Append: [【深新闻】抵制毒品侵害！华富街道举办青少年禁毒宣传活动](https://m.mp.oeeee.com/oe/BAAFRD000020240809984521.html)
+Append: [【深新闻】3岁幼儿突发糖尿病酮症酸中毒，医生提示：应定期体检](https://m.mp.oeeee.com/oe/BAAFRD000020240809984500.html)
+Append: [【深新闻】翠竹街道举行“璀璨水贝·益企荟翠”政企需求对接会应急专场](https://m.mp.oeeee.com/oe/BAAFRD000020240809984460.html)
+Append: [【深新闻】服务强区上“新” | 低空经济竞速，罗湖这样“高飞”](https://m.mp.oeeee.com/oe/BAAFRD000020240807983746.html)
+append_entries: 9
+Finish: 2024-08-09 13:05:24.920556
