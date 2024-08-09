@@ -1722,3 +1722,9 @@ Fetching from https://rsshub.app/zaobao/realtime/china
 Append: [北京官方呼吁市民警惕非法一日游](https://www.zaobao.com/realtime/china/story20240809-4449879)
 append_entries: 1
 Finish: 2024-08-09 17:03:21.676577
+------------------------------------------------------
+Started: 2024-08-09 18:03:30.752635
+Existing_entries: 356
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-09 18:03:30.829731
