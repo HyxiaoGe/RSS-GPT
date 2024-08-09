@@ -1715,3 +1715,10 @@ Existing_entries: 355
 Fetching from https://rsshub.app/zaobao/realtime/china
 append_entries: 0
 Finish: 2024-08-09 16:03:10.236212
+------------------------------------------------------
+Started: 2024-08-09 17:03:21.595356
+Existing_entries: 355
+Fetching from https://rsshub.app/zaobao/realtime/china
+Append: [北京官方呼吁市民警惕非法一日游](https://www.zaobao.com/realtime/china/story20240809-4449879)
+append_entries: 1
+Finish: 2024-08-09 17:03:21.676577
