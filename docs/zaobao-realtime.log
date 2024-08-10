@@ -1835,3 +1835,9 @@ Append: [河南禹州一村突发凶案多人伤亡 行凶者已归案](https://
 Append: [大陆外交部反对个别人用奥运会在台湾问题搞小动作](https://www.zaobao.com/realtime/china/story20240810-4453078)
 append_entries: 6
 Finish: 2024-08-10 09:02:46.190803
+------------------------------------------------------
+Started: 2024-08-10 10:02:44.087468
+Existing_entries: 373
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-10 10:02:44.167932
