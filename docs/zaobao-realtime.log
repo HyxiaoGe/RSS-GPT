@@ -1805,3 +1805,9 @@ Append: [马祖迎首团陆客 台陆委会欢迎更多陆客到金马旅游](ht
 Append: [中国特使据报抵缅 中国外交部：不愿看缅甸生战生乱](https://www.zaobao.com/realtime/china/story20240810-4452642)
 append_entries: 7
 Finish: 2024-08-10 05:04:34.872115
+------------------------------------------------------
+Started: 2024-08-10 06:03:22.227882
+Existing_entries: 367
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-10 06:03:22.301407
