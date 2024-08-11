@@ -1989,3 +1989,14 @@ Existing_entries: 395
 Fetching from https://rsshub.app/zaobao/realtime/china
 append_entries: 0
 Finish: 2024-08-11 07:02:43.036381
+------------------------------------------------------
+Started: 2024-08-11 08:04:31.106407
+Existing_entries: 395
+Fetching from https://rsshub.app/zaobao/realtime/china
+Append: [中国自主研发大型无人运输机成功首飞](https://www.zaobao.com/realtime/china/story20240811-4456368)
+Append: [中国媒体指兴奋剂在美国存在完整产业链](https://www.zaobao.com/realtime/china/story20240811-4456237)
+Append: [美民主党议员团访台 将见赖清德](https://www.zaobao.com/realtime/china/story20240811-4456166)
+Append: [嘉实基金董事长赵学军配合有关部门调查](https://www.zaobao.com/realtime/china/story20240811-4455861)
+Append: [港财政司长：香港必须深刻思考贯彻国家给予的定位](https://www.zaobao.com/realtime/china/story20240811-4455810)
+append_entries: 5
+Finish: 2024-08-11 08:04:31.180102
