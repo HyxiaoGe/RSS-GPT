@@ -2239,3 +2239,9 @@ Append: [中国一低空载客航线开通 浦东昆山通勤时间大幅缩短]
 Append: [台湾派三架F-16战机伴飞迎接奥运选手返台](https://www.zaobao.com/realtime/china/story20240812-4465474)
 append_entries: 3
 Finish: 2024-08-12 16:04:58.471622
+------------------------------------------------------
+Started: 2024-08-12 17:02:56.207017
+Existing_entries: 447
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-12 17:02:56.286888
