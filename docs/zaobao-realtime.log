@@ -2294,3 +2294,10 @@ Existing_entries: 448
 Fetching from https://rsshub.app/zaobao/realtime/china
 append_entries: 0
 Finish: 2024-08-13 01:30:03.163550
+------------------------------------------------------
+Started: 2024-08-13 02:18:03.170466
+Existing_entries: 448
+Fetching from https://rsshub.app/zaobao/realtime/china
+Append: [中美高级经济官员本周将在上海讨论经济和金融稳定议题](https://www.zaobao.com/realtime/china/story20240813-4469385)
+append_entries: 1
+Finish: 2024-08-13 02:18:03.246807
