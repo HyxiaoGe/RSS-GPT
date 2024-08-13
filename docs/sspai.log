@@ -31116,3 +31116,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-08-13 05:02:51.045871
+------------------------------------------------------
+Started: 2024-08-13 06:03:15.038530
+Existing_entries: 1000
+Fetching from https://rsshub.app/sspai/index
+Append: [我的背包进化史](https://sspai.com/post/91356)
+append_entries: 1
+Finish: 2024-08-13 06:03:15.251770
