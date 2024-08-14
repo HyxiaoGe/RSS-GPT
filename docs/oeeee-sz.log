@@ -2445,3 +2445,18 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-08-14 09:04:17.820727
+Existing_entries: 393
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深圳街坊】8天戏剧狂欢！第十届沙井粤剧（戏剧）嘉年华来了！](http://www.oeeee.com/html/202408/14/1522291.html)
+Append: [【深圳街坊】燕罗街道积极为企业职工解决租房难题](http://www.oeeee.com/html/202408/14/1522288.html)
+Append: [【深新闻】深圳实施重点领域研发计划 论证类项目最高可达1亿元](https://m.mp.oeeee.com/oe/BAAFRD000020240814986147.html)
+Append: [【深圳街坊】西乡街道举行“示范性产业园区”授牌仪式](http://www.oeeee.com/html/202408/14/1522278.html)
+Append: [【深圳街坊】“银发守护”西乡街道福中福社区新时代文明实践站开展老年人听力筛查活动](http://www.oeeee.com/html/202408/14/1522273.html)
+Append: [【深圳街坊】观澜街道“法治+文旅”游园会圆满收官，普法新风尚深入人心](http://www.oeeee.com/html/202408/14/1522269.html)
+Append: [【深新闻】联合国宣布！国际级创新实验室落地龙华](https://m.mp.oeeee.com/oe/BAAFRD000020240814986078.html)
+Append: [【深新闻】让大众文化生活更有意思 龙岗泛戏剧演出季官宣](https://m.mp.oeeee.com/oe/BAAFRD000020240814986057.html)
+Append: [【深新闻】郎朗来深圳了，他为龙岗区干的这件事点赞](https://m.mp.oeeee.com/oe/BAAFRD000020240814986056.html)
+append_entries: 9
+Finish: 2024-08-14 09:04:18.111864
