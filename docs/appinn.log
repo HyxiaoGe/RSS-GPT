@@ -35585,3 +35585,17 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-08-14 04:02:52.740502
+------------------------------------------------------
+Started: 2024-08-14 05:02:33.581394
+Existing_entries: 516
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetch error: 403
+Fetch failed from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetch error: 403
+Fetch failed from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+Fetch error: 403
+Fetch failed from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+error when rendering xml, skip docs/appinn
