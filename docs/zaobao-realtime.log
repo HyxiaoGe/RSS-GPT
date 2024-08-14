@@ -2476,3 +2476,10 @@ Existing_entries: 486
 Fetching from https://rsshub.app/zaobao/realtime/china
 append_entries: 0
 Finish: 2024-08-14 01:29:36.868397
+------------------------------------------------------
+Started: 2024-08-14 02:17:31.191266
+Existing_entries: 486
+Fetching from https://rsshub.app/zaobao/realtime/china
+Append: [中国向实体经济发放的银行贷款19年来首次环比萎缩](https://www.zaobao.com/realtime/china/story20240814-4482974)
+append_entries: 1
+Finish: 2024-08-14 02:17:31.270833
