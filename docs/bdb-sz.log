@@ -2725,3 +2725,11 @@ Append: [深圳机场可以过夜吗](https://sz.bendibao.com/jt/2024813/977516.
 Append: [2024深圳世界之窗60岁及以上免费吗](https://sz.bendibao.com/youhui/2024813/977534.shtm)
 append_entries: 6
 Finish: 2024-08-14 05:02:48.021812
+------------------------------------------------------
+Started: 2024-08-14 06:05:34.868648
+Existing_entries: 69
+Fetching from https://rsshub.app/bendibao/news/sz
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+error when rendering xml, skip docs/bdb-sz
