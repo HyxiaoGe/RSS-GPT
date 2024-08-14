@@ -2733,3 +2733,11 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 error when rendering xml, skip docs/bdb-sz
+------------------------------------------------------
+Started: 2024-08-14 07:02:51.406367
+Existing_entries: 69
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [深圳航班动态查询实时跟踪入口](https://sz.bendibao.com/jt/2024423/972516.htm)
+Append: [受天气影响深圳机场启动大面积航延橙色预警](https://sz.bendibao.com/jt/2024814/977550.htm)
+append_entries: 2
+Finish: 2024-08-14 07:02:51.443834
