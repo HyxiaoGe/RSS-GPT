@@ -2892,3 +2892,9 @@ Fetching from https://rsshub.app/bendibao/news/sz
 Append: [受天气影响深圳机场启动大面积航班延误黄色预警](http://sz.bendibao.com/news/2024815/977612.htm)
 append_entries: 1
 Finish: 2024-08-15 09:02:51.579855
+------------------------------------------------------
+Started: 2024-08-15 10:03:51.037689
+Existing_entries: 72
+Fetching from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+Finish: 2024-08-15 10:03:51.075863
