@@ -35963,3 +35963,12 @@ Fetch error: 403
 Fetch failed from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 error when rendering xml, skip docs/appinn
+------------------------------------------------------
+Started: 2024-08-15 09:02:34.017618
+Existing_entries: 516
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [[有] 有没有对网页输入框中内容进行替换的浏览器插件？](https://meta.appinn.net/t/topic/12704)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-08-15 09:02:36.838690
