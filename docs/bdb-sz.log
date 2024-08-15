@@ -2904,3 +2904,14 @@ Existing_entries: 72
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-08-15 11:02:57.404768
+------------------------------------------------------
+Started: 2024-08-15 12:06:43.534831
+Existing_entries: 72
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [受强降雨影响深圳部分列车停运（8月15日至16日）](http://sz.bendibao.com/jt/2024815/977629.htm)
+Append: [深圳火车晚点最新消息查询入口](http://sz.bendibao.com/jt/202443/971461.htm)
+Append: [中秋国庆放假调休通知](http://sz.bendibao.com/news/2024814/977587.htm)
+Append: [2024龙岗泛戏剧演出季演出内容+时间+地点](http://sz.bendibao.com/news/2024815/977615.htm)
+Append: [2024深圳CAFEEX咖啡展观展入场指南](http://sz.bendibao.com/news/2024815/977596.htm)
+append_entries: 5
+Finish: 2024-08-15 12:06:43.694479
