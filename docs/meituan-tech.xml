@@ -4,18 +4,16 @@
 <title>美团技术团队</title>
 <link>https://tech.meituan.com</link>
 
+
 <item>
 <title>信息流广告预估技术在美团外卖的实践</title>
 <link>https://tech.meituan.com/2024/08/16/information-flow-advertising-prediction-technology.html</link>
 <guid>https://tech.meituan.com/2024/08/16/information-flow-advertising-prediction-technology.html</guid>
 <content:encoded><![CDATA[
-
 本文整理自美团技术沙龙第81期《美团在广告算法领域的探索及实践》(B站视频)。文章首先介绍了美团信息流广告业务以及预估技术的现状，然后重点分享了信息流广告预估在美团的具体实践，围绕决策路径、超长超宽建模和全还原建模等多个维度进行了分享，最后是一些总结和展望，希望能对大家有所帮助或启发。
 ]]></content:encoded>
 <pubDate>Thu, 15 Aug 2024 16:00:00 GMT</pubDate>
-<pubDate>Thu, 15 Aug 2024 16:00:00 GMT</pubDate>
 </item>
-
 <item>
 <title>ACL 2024 | 美团技术团队精选论文解读</title>
 <link>https://tech.meituan.com/2024/08/09/acl-2024-meituan.html</link>

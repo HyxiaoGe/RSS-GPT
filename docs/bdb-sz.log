@@ -3011,3 +3011,11 @@ Existing_entries: 77
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-08-16 04:04:47.561877
+------------------------------------------------------
+Started: 2024-08-16 05:02:49.023254
+Existing_entries: 77
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [2024深圳13号线南段各站点最新建设进度](http://sz.bendibao.com/jt/2024816/977648.htm)
+Append: [2024深圳卫健委免费口罩摇号报名入口](http://sz.bendibao.com/news/2024815/977623.htm)
+append_entries: 2
+Finish: 2024-08-16 05:02:49.162392
