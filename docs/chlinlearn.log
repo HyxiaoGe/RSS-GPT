@@ -2759,3 +2759,9 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/chlinlearn/daily-blog
 append_entries: 0
 error when rendering xml, skip docs/chlinlearn
+------------------------------------------------------
+Started: 2024-08-16 23:03:27.372545
+Existing_entries: 35
+Fetching from https://rsshub.app/chlinlearn/daily-blog
+append_entries: 0
+Finish: 2024-08-16 23:03:33.874405
