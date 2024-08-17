@@ -3054,3 +3054,9 @@ Append: [中国电动车7月欧盟销量环比下滑达45%](https://www.zaobao.c
 Append: [中国央行行长：地方政府债务成本负担水平整体大幅下降](https://www.zaobao.com/realtime/china/story20240817-4500238)
 append_entries: 7
 Finish: 2024-08-17 06:03:14.732118
+------------------------------------------------------
+Started: 2024-08-17 07:02:43.761155
+Existing_entries: 608
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-17 07:02:43.836155
