@@ -2805,3 +2805,10 @@ Existing_entries: 33
 Fetching from https://rsshub.app/piyao/jrpy
 append_entries: 0
 Finish: 2024-08-19 12:04:54.709773
+------------------------------------------------------
+Started: 2024-08-19 13:06:04.811755
+Existing_entries: 33
+Fetching from https://rsshub.app/piyao/jrpy
+Append: [今日辟谣（2024年8月19日）](https://www.piyao.org.cn/20240819/e5dc0eeb1cd3459baba2ba71ca6903de/c.html)
+append_entries: 1
+Finish: 2024-08-19 13:06:05.210320
