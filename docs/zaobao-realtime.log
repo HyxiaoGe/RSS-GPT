@@ -3555,3 +3555,9 @@ Append: [中越央行签署合作谅解备忘录 促进本币互换跨境支付]
 Append: [湖南资兴特大暴雨灾害已致50人遇难15人失踪](https://www.zaobao.com/realtime/china/story20240820-4511510)
 append_entries: 5
 Finish: 2024-08-20 03:03:15.402034
+------------------------------------------------------
+Started: 2024-08-20 04:03:18.394246
+Existing_entries: 695
+Fetching from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+Finish: 2024-08-20 04:03:18.477749
