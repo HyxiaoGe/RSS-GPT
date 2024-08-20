@@ -3681,3 +3681,10 @@ Existing_entries: 87
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-08-20 18:04:29.960817
+------------------------------------------------------
+Started: 2024-08-20 19:02:38.276449
+Existing_entries: 87
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [2024奥运代表团访港活动门票购买攻略](https://sz.bendibao.com/news/2024820/977761.htm)
+append_entries: 1
+Finish: 2024-08-20 19:02:38.321657
