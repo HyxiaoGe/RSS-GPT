@@ -2898,3 +2898,11 @@ Existing_entries: 24
 Fetching from https://rsshub.app/meituan/tech
 append_entries: 0
 Finish: 2024-08-20 05:06:10.508250
+------------------------------------------------------
+Started: 2024-08-20 06:04:09.840114
+Existing_entries: 24
+Fetching from https://rsshub.app/meituan/tech
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/meituan/tech
+append_entries: 0
+error when rendering xml, skip docs/meituan-tech
