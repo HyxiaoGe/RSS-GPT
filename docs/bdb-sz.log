@@ -3790,3 +3790,10 @@ Existing_entries: 88
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-08-21 12:04:13.875038
+------------------------------------------------------
+Started: 2024-08-21 13:04:28.753632
+Existing_entries: 88
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [2024四六级考试成绩查询攻略](http://sz.bendibao.com/edu/2024820/977742.shtm)
+append_entries: 1
+Finish: 2024-08-21 13:04:28.879276
