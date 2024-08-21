@@ -3121,3 +3121,10 @@ Existing_entries: 19
 Fetching from https://rsshub.app/deeplearning/thebatch
 append_entries: 0
 Finish: 2024-08-21 20:03:24.846116
+------------------------------------------------------
+Started: 2024-08-21 21:03:29.443052
+Existing_entries: 19
+Fetching from https://rsshub.app/deeplearning/thebatch
+Append: [AI Agents Generate Novel Research, Google Imagen 3 Raises the Bar, Alibaba’s Open Models for Specialized Tasks, Scaling Laws for Data Quality](https://www.deeplearning.ai/the-batch/issue-263)
+append_entries: 1
+Finish: 2024-08-21 21:03:30.054599
