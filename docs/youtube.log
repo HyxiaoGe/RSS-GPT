@@ -4636,3 +4636,10 @@ Fetch error: 502
 Fetch failed from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
 append_entries: 0
 error when rendering xml, skip docs/youtube
+------------------------------------------------------
+Started: 2024-08-23 04:03:35.839771
+Existing_entries: 112
+Fetching from https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ
+Fetching from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
+append_entries: 0
+Finish: 2024-08-23 04:03:38.062828
