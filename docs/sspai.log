@@ -32641,3 +32641,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-08-23 14:02:39.327476
+------------------------------------------------------
+Started: 2024-08-23 15:02:44.445166
+Existing_entries: 1000
+Fetching from https://rsshub.app/sspai/index
+Append: [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/91745)
+append_entries: 1
+Finish: 2024-08-23 15:02:44.665061
