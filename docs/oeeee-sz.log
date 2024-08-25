@@ -4340,3 +4340,13 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-08-25 13:06:27.062784
+Existing_entries: 686
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深新闻】你我下笔，皆是未来——来自宝安少年的未来城市的畅想](https://m.mp.oeeee.com/oe/BAAFRD000020240825990701.html)
+Append: [【深新闻】“小小神笔马良”用绘画+AI畅想未来深圳，献礼特区生日](https://m.mp.oeeee.com/oe/BAAFRD000020240825990693.html)
+Append: [【深新闻】龙岗观察｜两大科创平台赋能，龙岗“好房子”聪明又环保](https://m.mp.oeeee.com/oe/BAAFRD000020240825990624.html)
+Append: [【深新闻】深圳教育新势力！全市超7000名新教师入职](https://m.mp.oeeee.com/oe/BAAFRD000020240825990619.html)
+append_entries: 4
+Finish: 2024-08-25 13:06:27.350414

@@ -32919,3 +32919,10 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-08-25 12:03:18.768820
+------------------------------------------------------
+Started: 2024-08-25 13:04:16.185147
+Existing_entries: 1000
+Fetching from https://rsshub.app/sspai/index
+Append: [一场高中生唱主角的黑客松：访谈 AdventureX 核心团队及优秀作品团队](https://sspai.com/post/91777)
+append_entries: 1
+Finish: 2024-08-25 13:04:16.469835
