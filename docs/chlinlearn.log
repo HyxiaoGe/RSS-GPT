@@ -4391,3 +4391,9 @@ Fetch error: 503
 Fetch failed from https://rsshub.app/chlinlearn/daily-blog
 append_entries: 0
 error when rendering xml, skip docs/chlinlearn
+------------------------------------------------------
+Started: 2024-08-25 22:02:55.868204
+Existing_entries: 35
+Fetching from https://rsshub.app/chlinlearn/daily-blog
+append_entries: 0
+Finish: 2024-08-25 22:02:59.291643
