@@ -4473,3 +4473,11 @@ Existing_entries: 35
 Fetching from https://rsshub.app/chlinlearn/daily-blog
 append_entries: 0
 Finish: 2024-08-26 08:05:58.436712
+------------------------------------------------------
+Started: 2024-08-26 09:03:09.630336
+Existing_entries: 35
+Fetching from https://rsshub.app/chlinlearn/daily-blog
+Fetch error: 503
+Fetch failed from https://rsshub.app/chlinlearn/daily-blog
+append_entries: 0
+error when rendering xml, skip docs/chlinlearn
