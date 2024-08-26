@@ -3792,3 +3792,9 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/deeplearning/thebatch
 append_entries: 0
 error when rendering xml, skip docs/deeplearning
+------------------------------------------------------
+Started: 2024-08-26 13:06:42.861332
+Existing_entries: 20
+Fetching from https://rsshub.app/deeplearning/thebatch
+append_entries: 0
+Finish: 2024-08-26 13:06:43.131077
