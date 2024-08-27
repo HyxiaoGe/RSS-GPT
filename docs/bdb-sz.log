@@ -4622,3 +4622,10 @@ Existing_entries: 104
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-08-27 05:02:52.252143
+------------------------------------------------------
+Started: 2024-08-27 06:04:09.477177
+Existing_entries: 104
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [深圳黑神话悟空音乐会门票8月28日周三开售](http://sz.bendibao.com/news/2024827/977966.htm)
+append_entries: 1
+Finish: 2024-08-27 06:04:21.411064
