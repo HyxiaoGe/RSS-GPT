@@ -4691,3 +4691,11 @@ Existing_entries: 35
 Fetching from https://rsshub.app/chlinlearn/daily-blog
 append_entries: 0
 Finish: 2024-08-27 12:07:26.738427
+------------------------------------------------------
+Started: 2024-08-27 13:06:25.186258
+Existing_entries: 35
+Fetching from https://rsshub.app/chlinlearn/daily-blog
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/chlinlearn/daily-blog
+append_entries: 0
+error when rendering xml, skip docs/chlinlearn
