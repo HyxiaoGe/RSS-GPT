@@ -4596,3 +4596,11 @@ Existing_entries: 102
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-08-27 01:29:31.607217
+------------------------------------------------------
+Started: 2024-08-27 02:18:32.535270
+Existing_entries: 102
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [深圳莲花山公园观光线乘坐指南](http://sz.bendibao.com/jt/2024827/977943.htm)
+Append: [2024南山入户补贴申请时间（开始+截止）](http://bsy.sz.bendibao.com/bsyDetail/643772.html)
+append_entries: 2
+Finish: 2024-08-27 02:18:32.687162
