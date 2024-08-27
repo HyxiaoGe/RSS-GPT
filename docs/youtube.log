@@ -5341,3 +5341,12 @@ Append: [【第298期】IBM突然关闭中国研发部门背后的深层原因](
 Fetching from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
 append_entries: 1
 Finish: 2024-08-27 07:02:59.920244
+------------------------------------------------------
+Started: 2024-08-27 08:03:21.774553
+Existing_entries: 115
+Fetching from https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ
+Fetching from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
+append_entries: 0
+error when rendering xml, skip docs/youtube
