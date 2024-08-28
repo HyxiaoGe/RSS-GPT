@@ -38427,3 +38427,11 @@ Append: [是否有支持 DeepLX 的 ios 翻译软件](https://meta.appinn.net/t/
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-08-28 04:03:01.201853
+------------------------------------------------------
+Started: 2024-08-28 05:02:31.565257
+Existing_entries: 524
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-08-28 05:02:34.687108
