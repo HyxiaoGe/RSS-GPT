@@ -4891,3 +4891,18 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-08-28 18:04:15.138465
+Existing_entries: 773
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深新闻】引领人工智能潮流 ，全球面积最大人工智能专业展在深举办](https://m.mp.oeeee.com/oe/BAAFRD000020240829993459.html)
+Append: [【深新闻】“坪山高铁站外乱摆卖”引发广泛关注 市民盼建立长效机制](https://m.mp.oeeee.com/oe/BAAFRD000020240828993441.html)
+Append: [【深新闻】深圳建筑物绿色拆除与建废综合利用有何妙招？这场观摩会揭晓](https://m.mp.oeeee.com/oe/BAAFRD000020240828993427.html)
+Append: [【深新闻】“真金白银”利好来了！这个深港合作示范项目有新动向](https://m.mp.oeeee.com/oe/BAAFRD000020240828993419.html)
+Append: [【深新闻】迈向百亿物联时代，深圳新一代产业园率团擦亮产业名片](https://m.mp.oeeee.com/oe/BAAFRD000020240828993360.html)
+Append: [【深新闻】深圳公安举办警营开放日特警专场，“深小警”首次亮相](https://m.mp.oeeee.com/oe/BAAFRD000020240828993288.html)
+Append: [【深新闻】机房运维效率提升80%！罗湖这一地标迎来数字新生](https://m.mp.oeeee.com/oe/BAAFRD000020240828993268.html)
+Append: [【深新闻】严把政治考核关，民治街道开展应征青年走访调查工作](https://m.mp.oeeee.com/oe/BAAFRD000020240828992875.html)
+Append: [【深新闻】龙华街道开展2024年下半年应征青年走访调查工作](https://m.mp.oeeee.com/oe/BAAFRD000020240827991816.html)
+append_entries: 9
+Finish: 2024-08-28 18:04:15.287578
