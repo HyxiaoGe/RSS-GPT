@@ -4763,3 +4763,9 @@ Append: [2024年中秋节前一天火车票8月31日开售](http://sz.bendibao.c
 Append: [深圳莲花山公园观光车购票入口](https://sz.bendibao.com/jt/2024827/977952.htm)
 append_entries: 6
 Finish: 2024-08-28 03:03:25.212664
+------------------------------------------------------
+Started: 2024-08-28 04:03:16.045510
+Existing_entries: 111
+Fetching from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+Finish: 2024-08-28 04:03:16.087491
