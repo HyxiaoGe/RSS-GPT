@@ -5771,3 +5771,12 @@ Fetching from https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ
 Fetching from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
 append_entries: 0
 Finish: 2024-08-29 20:03:07.872531
+------------------------------------------------------
+Started: 2024-08-29 21:03:00.051681
+Existing_entries: 116
+Fetching from https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ
+Fetching from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
+append_entries: 0
+Finish: 2024-08-29 21:03:30.325470
