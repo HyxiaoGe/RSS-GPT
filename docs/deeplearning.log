@@ -4148,3 +4148,10 @@ Existing_entries: 20
 Fetching from https://rsshub.app/deeplearning/thebatch
 append_entries: 0
 Finish: 2024-08-28 23:03:13.897295
+------------------------------------------------------
+Started: 2024-08-29 00:12:08.403206
+Existing_entries: 20
+Fetching from https://rsshub.app/deeplearning/thebatch
+Append: [AI Restores ALS Patient's Voice, AI Lobby Grows, Agentic Coding Advances, Massively Multimodal Model](https://www.deeplearning.ai/the-batch/issue-264)
+append_entries: 1
+Finish: 2024-08-29 00:12:08.678059
