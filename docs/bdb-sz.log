@@ -5061,3 +5061,10 @@ Existing_entries: 115
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-08-30 04:03:51.260154
+------------------------------------------------------
+Started: 2024-08-30 05:03:03.789855
+Existing_entries: 115
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [2024张杰深圳演唱会门票今日开售(8月30日)](http://sz.bendibao.com/news/2024830/978118.htm)
+append_entries: 1
+Finish: 2024-08-30 05:03:03.892911

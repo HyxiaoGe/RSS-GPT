@@ -5138,3 +5138,20 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-08-30 05:03:10.308222
+Existing_entries: 808
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深圳街坊】西乡老协 “水之灵” 舞动粤赣，再创佳绩！](http://www.oeeee.com/html/202408/30/1527134.html)
+Append: [【深圳街坊】航城街道黄麻布社区开展新学期法治第一课！未成年人保护法兜底民生政策宣传](http://www.oeeee.com/html/202408/30/1527118.html)
+Append: [【深新闻】支持网络微短剧产业发展，深圳发布重磅政策](https://m.mp.oeeee.com/oe/BAAFRD000020240830994434.html)
+Append: [【深新闻】光明环水公司开展“科学用水”主题宣传活动](https://m.mp.oeeee.com/oe/BAAFRD000020240829994416.html)
+Append: [【深新闻】“想从事机器人研发”，这些深圳娃角逐教育部白名单赛事](https://m.mp.oeeee.com/oe/BAAFRD000020240829994319.html)
+Append: [【深新闻】党群服务中心也能办不动产登记！“党建+不动产”引领新篇章](https://m.mp.oeeee.com/oe/BAAFRD000020240829994166.html)
+Append: [【深新闻】吹响军训号角！福田区人武部组织开展辖区中学高一新生军训](https://m.mp.oeeee.com/oe/BAAFRD000020240829994165.html)
+Append: [【深新闻】省教育厅公布遴选结果！这些深圳幼儿园老师获奖](https://m.mp.oeeee.com/oe/BAAFRD000020240829994103.html)
+Append: [【深新闻】深圳光明“文明蒲公英”主题活动举行](https://m.mp.oeeee.com/oe/BAAFRD000020240829993959.html)
+Append: [【深新闻】深圳音乐厅9月公益演出排期出街，多场免费演出奏响东西荟萃](https://m.mp.oeeee.com/oe/BAAFRD000020240829993776.html)
+Append: [【深新闻】新学期龙岗交付12所学校 新增学位超2.5万个](https://m.mp.oeeee.com/oe/BAAFRD000020240829993712.html)
+append_entries: 11
+Finish: 2024-08-30 05:03:10.525851
