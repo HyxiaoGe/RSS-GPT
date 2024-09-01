@@ -5426,3 +5426,10 @@ Existing_entries: 118
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-09-01 16:02:48.074524
+------------------------------------------------------
+Started: 2024-09-01 17:04:29.621905
+Existing_entries: 118
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [2024秋季广东开学第一课直播回放观看入口](http://sz.bendibao.com/news/2024831/978176.htm)
+append_entries: 1
+Finish: 2024-09-01 17:04:29.724282
