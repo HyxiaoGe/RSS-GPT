@@ -58021,3 +58021,18 @@ Fetching from https://rsshub.app/36kr/motif/327686815745
 Fetching from https://rsshub.app/36kr/motif/327685734401
 append_entries: 0
 Finish: 2024-09-01 04:04:02.938694
+------------------------------------------------------
+Started: 2024-09-01 05:02:40.881914
+Existing_entries: 587
+Fetching from https://rsshub.app/36kr/motif/327685554177
+Fetching from https://rsshub.app/36kr/motif/327687077889
+Fetching from https://rsshub.app/36kr/motif/1366661828936836
+Fetching from https://rsshub.app/36kr/motif/1366662419875203
+Fetching from https://rsshub.app/36kr/motif/1756302767423108
+Append: [20多岁确诊「糖尿病前期」，年轻人陷入血糖焦虑](https://www.36kr.com/p/2927047129389705)
+Fetching from https://rsshub.app/36kr/motif/327686815745
+Fetching from https://rsshub.app/36kr/motif/327685734401
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/36kr/motif/327685734401
+append_entries: 1
+error when rendering xml, skip docs/36kr
