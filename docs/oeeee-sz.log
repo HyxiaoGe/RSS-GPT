@@ -5509,3 +5509,16 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-09-01 11:02:44.339021
+Existing_entries: 851
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深新闻】开学穿礼服or运动服？这些深圳学校都穿运动服啦！家长支持](https://m.mp.oeeee.com/oe/BAAFRD000020240901995459.html)
+Append: [【深新闻】宝安区“9+13”所新校（园）正式官宣](https://m.mp.oeeee.com/oe/BAAFRD000020240901995415.html)
+Append: [【深新闻】直播：秋高气爽满"新”欢喜，直击深圳开学第一天](https://m.mp.oeeee.com/live/7599_61a47c8a1fa9780c.html)
+Append: [【深新闻】曾在本报扬名，他们故事的“含金量”还在持续上升](https://m.mp.oeeee.com/oe/BAAFRD000020240901995376.html)
+Append: [【深新闻】推动产学研交流与合作，这场“首席讲堂”活动在深圳光明举办](https://m.mp.oeeee.com/oe/BAAFRD000020240901995374.html)
+Append: [【深新闻】踏上一场色彩斑斓的奔跑之旅！深圳光明微跑活动举行](https://m.mp.oeeee.com/oe/BAAFRD000020240901995370.html)
+Append: [【深新闻】硬盘、算力卡……深理工首届本科生报到，“加油包”拿不停](https://m.mp.oeeee.com/oe/BAAFRD000020240831995319.html)
+append_entries: 7
+Finish: 2024-09-01 11:02:44.534074
