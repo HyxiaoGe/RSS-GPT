@@ -5548,3 +5548,11 @@ Existing_entries: 126
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-09-02 11:03:34.845462
+------------------------------------------------------
+Started: 2024-09-02 12:06:04.197481
+Existing_entries: 126
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [2024台风摩羯最新位置（不断更新）](http://sz.bendibao.com/news/202492/978205.htm)
+Append: [2024深圳马拉松9月3日开始报名](http://sz.bendibao.com/news/202492/978220.htm)
+append_entries: 2
+Finish: 2024-09-02 12:06:04.303721
