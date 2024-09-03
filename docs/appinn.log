@@ -39736,3 +39736,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-03 22:03:40.901253
+------------------------------------------------------
+Started: 2024-09-03 23:02:30.154640
+Existing_entries: 531
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [Chrome 能不能隐藏掉标题栏？](https://meta.appinn.net/t/topic/60606)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-03 23:02:33.596175
