@@ -5661,3 +5661,9 @@ Append: [2024年深圳马拉松报名官网入口](https://sz.bendibao.com/news/
 Append: [华为将于9月10日举办新品发布会](https://sz.bendibao.com/news/202493/978258.htm)
 append_entries: 3
 Finish: 2024-09-03 05:02:50.527897
+------------------------------------------------------
+Started: 2024-09-03 06:03:34.243152
+Existing_entries: 131
+Fetching from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+Finish: 2024-09-03 06:03:34.299027
