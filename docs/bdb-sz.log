@@ -5721,3 +5721,11 @@ Existing_entries: 131
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-09-03 15:03:04.775271
+------------------------------------------------------
+Started: 2024-09-03 16:04:10.819137
+Existing_entries: 131
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [2024深圳少儿医保统一参保缴费时间](http://bsy.sz.bendibao.com/bsyDetail/643797.html)
+Append: [2024深圳教师节有哪些优惠活动](https://sz.bendibao.com/youhui/202492/978203.shtm)
+append_entries: 2
+Finish: 2024-09-03 16:04:18.418686

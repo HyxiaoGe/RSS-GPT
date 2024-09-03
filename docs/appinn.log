@@ -39679,3 +39679,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-03 15:02:37.263592
+------------------------------------------------------
+Started: 2024-09-03 16:02:58.493752
+Existing_entries: 530
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [【效率工具】最美字迹放大镜](https://meta.appinn.net/t/topic/60593)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-03 16:03:01.425983
