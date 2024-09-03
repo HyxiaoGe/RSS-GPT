@@ -34221,3 +34221,11 @@ Existing_entries: 1001
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-09-03 08:03:32.143747
+------------------------------------------------------
+Started: 2024-09-03 09:02:46.940404
+Existing_entries: 1000
+Fetching from https://rsshub.app/sspai/index
+Append: [Apple 发布会前瞻：屏幕更大、AI 更强，除了 iPhone 还有哪些看点？](https://sspai.com/post/91989)
+Append: [线下活动：漫谈人工智能 | 在情绪潮水消退后，回顾 AI 的本质](https://sspai.com/post/91983)
+append_entries: 2
+Finish: 2024-09-03 09:02:47.192000
