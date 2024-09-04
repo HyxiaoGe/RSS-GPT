@@ -5858,3 +5858,10 @@ Existing_entries: 136
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-09-04 13:07:29.317712
+------------------------------------------------------
+Started: 2024-09-04 14:03:14.923385
+Existing_entries: 136
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [9月4日19时深圳市台风白色预警信号升级为蓝色](http://sz.bendibao.com/news/202494/978386.htm)
+append_entries: 1
+Finish: 2024-09-04 14:03:15.041566
