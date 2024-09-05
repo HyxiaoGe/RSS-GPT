@@ -5969,3 +5969,9 @@ Append: [2024深圳马拉松报名常见问题解答汇总](http://sz.bendibao.c
 Append: [深圳少儿医保如何申请个账退费](http://bsy.sz.bendibao.com/bsyDetail/642303.html)
 append_entries: 2
 Finish: 2024-09-05 07:03:12.930903
+------------------------------------------------------
+Started: 2024-09-05 08:03:48.313565
+Existing_entries: 139
+Fetching from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+Finish: 2024-09-05 08:03:48.362110
