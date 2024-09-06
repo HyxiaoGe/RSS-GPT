@@ -6098,3 +6098,9 @@ Append: [深圳火车正晚点最新消息查询入口](https://sz.bendibao.com/
 Append: [深圳航班延误最新消息查询](https://sz.bendibao.com/jt/2024423/972517.htm)
 append_entries: 3
 Finish: 2024-09-06 04:03:12.733612
+------------------------------------------------------
+Started: 2024-09-06 05:03:14.117735
+Existing_entries: 142
+Fetching from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+Finish: 2024-09-06 05:03:14.170652
