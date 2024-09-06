@@ -4,6 +4,94 @@
 <title>值得一读技术博客</title>
 <link>https://daily-blog.chlinlearn.top/blogs/1</link>
 
+<item>
+<title>系统稳定性的基石：限流在 AutoMQ 中的最佳实践</title>
+<link>https://mp.weixin.qq.com/s/Gpcw1T6Z2Ff7lzIdmbun6A</link>
+<guid>https://mp.weixin.qq.com/s/Gpcw1T6Z2Ff7lzIdmbun6A</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>自增主键去哪了?---一次开发过程中的思考</title>
+<link>https://mp.weixin.qq.com/s/yCCpwsPhGu7hKfwUAjjlxg</link>
+<guid>https://mp.weixin.qq.com/s/yCCpwsPhGu7hKfwUAjjlxg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>人工智能时代，滴滴 OrangeFS 数据湖存储的探索与实践</title>
+<link>https://mp.weixin.qq.com/s/oauKSgs1ez-r5XST5iUIiQ</link>
+<guid>https://mp.weixin.qq.com/s/oauKSgs1ez-r5XST5iUIiQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>中台建设务虚笔记：从一个故事开始</title>
+<link>https://mp.weixin.qq.com/s/lQ_htY9TP4btnShvlbO52Q</link>
+<guid>https://mp.weixin.qq.com/s/lQ_htY9TP4btnShvlbO52Q</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>深入理解 Babel - 微内核架构与 ECMAScript 标准化</title>
+<link>https://mp.weixin.qq.com/s/cyOyB9-Q5Gz2xhQd0Kkwpg</link>
+<guid>https://mp.weixin.qq.com/s/cyOyB9-Q5Gz2xhQd0Kkwpg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>大模型推理框架RTP-LLM架构解析</title>
+<link>https://mp.weixin.qq.com/s/TSayGqWUuKO7qQeiT8A2sA</link>
+<guid>https://mp.weixin.qq.com/s/TSayGqWUuKO7qQeiT8A2sA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Cookie的secure属性引起循环登录问题分析及解决方案</title>
+<link>https://mp.weixin.qq.com/s/mHJGCi4FPxKvE_CP8VLyRQ</link>
+<guid>https://mp.weixin.qq.com/s/mHJGCi4FPxKvE_CP8VLyRQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>表格存储低成本向量检索服务助力 AI 检索</title>
+<link>https://mp.weixin.qq.com/s/gl-GLogaiBtgNMDqMgVnqg</link>
+<guid>https://mp.weixin.qq.com/s/gl-GLogaiBtgNMDqMgVnqg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>转转搜推排序服务的响应对象序列化优化</title>
