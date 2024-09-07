@@ -6491,3 +6491,13 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-09-07 11:02:46.950255
+Existing_entries: 995
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深新闻】赋能新质生产力，福田共筑数字能源产业活力生态圈](https://m.mp.oeeee.com/oe/BAAFRD000020240907997725.html)
+Append: [【深新闻】看天上，龙岗这家企业打破两项吉尼斯世界纪录](https://m.mp.oeeee.com/oe/BAAFRD000020240907997654.html)
+Append: [【深新闻】福田区教育局局长王巍实地调研深圳市第三幼儿园](https://m.mp.oeeee.com/oe/BAAFRD000020240906997256.html)
+Append: [【深新闻】新增4410个学位！福田4所学校全新上线](https://m.mp.oeeee.com/oe/BAAFRD000020240905996762.html)
+append_entries: 4
+Finish: 2024-09-07 11:02:47.254189
