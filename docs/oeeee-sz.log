@@ -6675,3 +6675,11 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-09-08 18:03:50.652866
+Existing_entries: 1000
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深新闻】生育率下降背景下，深圳教育如何高质量发展](https://m.mp.oeeee.com/oe/BAAFRD000020240909997918.html)
+Append: [【深新闻】深圳宝能环球汇扶梯骤停，商场：无人员受伤，已有工程在维修](https://m.mp.oeeee.com/oe/BAAFRD000020240908997905.html)
+append_entries: 2
+Finish: 2024-09-08 18:03:50.951449
