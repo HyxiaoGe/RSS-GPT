@@ -4,6 +4,105 @@
 <title>值得一读技术博客</title>
 <link>https://daily-blog.chlinlearn.top/blogs/1</link>
 
+<item>
+<title>“僵尸”实例无处不在</title>
+<link>https://mp.weixin.qq.com/s/Znxuz3JAu4MvApVm5RUqpA</link>
+<guid>https://mp.weixin.qq.com/s/Znxuz3JAu4MvApVm5RUqpA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>如何对付一个耗时6h+的ODPS任务：慢节点优化实践</title>
+<link>https://mp.weixin.qq.com/s/xKOmGl4QzCsmwMtgYPRkhA</link>
+<guid>https://mp.weixin.qq.com/s/xKOmGl4QzCsmwMtgYPRkhA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>B站直播的极速排障建设-全链路Trace追踪</title>
+<link>https://mp.weixin.qq.com/s/gpPauu9gNzsJmrOfZjt5ig</link>
+<guid>https://mp.weixin.qq.com/s/gpPauu9gNzsJmrOfZjt5ig</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>业务复杂度治理方法论--十年系统设计经验总结</title>
+<link>https://mp.weixin.qq.com/s/8N2wSJoGGUr1d-VRZN3KVA</link>
+<guid>https://mp.weixin.qq.com/s/8N2wSJoGGUr1d-VRZN3KVA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>一篇文搞定消息队列选型</title>
+<link>https://mp.weixin.qq.com/s/hn6VWEmuTiDvxHQ9EmbjlA</link>
+<guid>https://mp.weixin.qq.com/s/hn6VWEmuTiDvxHQ9EmbjlA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>AI 网关零代码解决 AI 幻觉问题</title>
+<link>https://mp.weixin.qq.com/s/xbKgl6J0WDv3ckjBKVhwIQ</link>
+<guid>https://mp.weixin.qq.com/s/xbKgl6J0WDv3ckjBKVhwIQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>协程的原理与实现：GMP源码走读</title>
+<link>https://mp.weixin.qq.com/s/JKPposLgq_rIwsMDwroeqw</link>
+<guid>https://mp.weixin.qq.com/s/JKPposLgq_rIwsMDwroeqw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>万字长文详细分享Redis的常见业务场景</title>
+<link>https://mp.weixin.qq.com/s/srkd73bS2n3mjIADLVg72A</link>
+<guid>https://mp.weixin.qq.com/s/srkd73bS2n3mjIADLVg72A</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>AI 自动蒙皮技术在游戏角色资产制作中的应用</title>
+<link>https://mp.weixin.qq.com/s/SQYMs3x0NDBTJqPMHppVaA</link>
+<guid>https://mp.weixin.qq.com/s/SQYMs3x0NDBTJqPMHppVaA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>系统稳定性的基石：限流在 AutoMQ 中的最佳实践</title>
