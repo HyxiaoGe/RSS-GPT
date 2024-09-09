@@ -4,6 +4,17 @@
 <title>美团技术团队</title>
 <link>https://tech.meituan.com</link>
 
+<item>
+<title>新一代实验分析引擎：驱动履约平台的数据决策</title>
+<link>https://tech.meituan.com/2024/09/09/new-generation-analysis-engine-driving-data-decisions.html</link>
+<guid>https://tech.meituan.com/2024/09/09/new-generation-analysis-engine-driving-data-decisions.html</guid>
+<content:encoded><![CDATA[
+
+本文介绍了美团履约技术平台的新一代实验分析引擎，该引擎对核心实验框架进行了标准化，并融合了众多先进解决方案，有效解决小样本挑战。同时，提供了多样化的溢出效应应对策略，并针对不同业务场景提供了精准的方差和P值计算方法，以规避统计误差。希望对大家有所帮助或启发。
+]]></content:encoded>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Sun, 08 Sep 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>信息流广告预估技术在美团外卖的实践</title>
