@@ -4,6 +4,61 @@
 <title>值得一读技术博客</title>
 <link>https://daily-blog.chlinlearn.top/blogs/1</link>
 
+<item>
+<title>探索可观测的新视角—— eBPF 在小红书的实践</title>
+<link>https://mp.weixin.qq.com/s/GNof-dxU7BDdv0OOsa_sFw</link>
+<guid>https://mp.weixin.qq.com/s/GNof-dxU7BDdv0OOsa_sFw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>LLM推理加速：decode阶段的Attention在GPU上的优化（二）</title>
+<link>https://mp.weixin.qq.com/s/BIXzG9QrahRDPtB6-JBDIw</link>
+<guid>https://mp.weixin.qq.com/s/BIXzG9QrahRDPtB6-JBDIw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>我的字段被FastJson给干掉了?!</title>
+<link>https://mp.weixin.qq.com/s/t3nq03MxL0HWzQFx62P9Cg</link>
+<guid>https://mp.weixin.qq.com/s/t3nq03MxL0HWzQFx62P9Cg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Linux内存变低会发生什么问题</title>
+<link>https://mp.weixin.qq.com/s/c2y36IH-4mRwhR-xvvdqGw</link>
+<guid>https://mp.weixin.qq.com/s/c2y36IH-4mRwhR-xvvdqGw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>电子邮件防伪：SPF, DKIM与DMARC</title>
+<link>https://nyan.im/p/email-anti-spoofing-spf-dkim-dmarc</link>
+<guid>https://nyan.im/p/email-anti-spoofing-spf-dkim-dmarc</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 09 Sep 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>使用 Cursor AI Code Editor 的最佳实践</title>
