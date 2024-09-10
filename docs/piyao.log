@@ -5952,3 +5952,9 @@ Fetching from https://rsshub.app/piyao/jrpy
 Append: [今日辟谣（2024年9月10日）](https://www.piyao.org.cn/20240910/14e4605186214f27a55d05eeb3728638/c.html)
 append_entries: 1
 Finish: 2024-09-10 14:03:16.462295
+------------------------------------------------------
+Started: 2024-09-10 15:02:57.034756
+Existing_entries: 50
+Fetching from https://rsshub.app/piyao/jrpy
+append_entries: 0
+Finish: 2024-09-10 15:02:57.213261
