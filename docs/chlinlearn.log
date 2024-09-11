@@ -7215,3 +7215,9 @@ Fetching from https://rsshub.app/chlinlearn/daily-blog
 Append: [在 Web 中判断页面是不是刷新](https://www.cnblogs.com/guojikun/p/18406148)
 append_entries: 1
 Finish: 2024-09-11 05:04:21.600334
+------------------------------------------------------
+Started: 2024-09-11 06:04:03.733254
+Existing_entries: 84
+Fetching from https://rsshub.app/chlinlearn/daily-blog
+append_entries: 0
+Finish: 2024-09-11 06:04:03.877426
