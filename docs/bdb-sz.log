@@ -6831,3 +6831,9 @@ Fetching from https://rsshub.app/bendibao/news/sz
 Append: [9月14日深圳限行吗](http://sz.bendibao.com/jt/202499/978551.htm)
 append_entries: 1
 Finish: 2024-09-11 12:04:17.323945
+------------------------------------------------------
+Started: 2024-09-11 13:08:13.980558
+Existing_entries: 155
+Fetching from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+Finish: 2024-09-11 13:08:14.041696
