@@ -6817,3 +6817,10 @@ Existing_entries: 153
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-09-11 10:04:02.438074
+------------------------------------------------------
+Started: 2024-09-11 11:02:46.433490
+Existing_entries: 153
+Fetching from https://rsshub.app/bendibao/news/sz
+Append: [2024年深圳家装补贴最新消息（持续更新）](http://sz.bendibao.com/news/2024911/978671.htm)
+append_entries: 1
+Finish: 2024-09-11 11:02:46.590703
