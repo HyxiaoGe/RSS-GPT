@@ -4,6 +4,83 @@
 <title>值得一读技术博客</title>
 <link>https://daily-blog.chlinlearn.top/blogs/1</link>
 
+<item>
+<title>暗水印显隐术助力生产排障提效</title>
+<link>https://mp.weixin.qq.com/s/TLyQON9Tt_uMUbr5U7Pnyg</link>
+<guid>https://mp.weixin.qq.com/s/TLyQON9Tt_uMUbr5U7Pnyg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Redis集群slot迁移改造实践</title>
+<link>https://mp.weixin.qq.com/s/v2TLQoMCO21pn4WEnw0wMg</link>
+<guid>https://mp.weixin.qq.com/s/v2TLQoMCO21pn4WEnw0wMg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>架构师必备底层逻辑：分层架构设计</title>
+<link>https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw</link>
+<guid>https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>二级缓存架构极致提升系统性能</title>
+<link>https://mp.weixin.qq.com/s/R_Qg0N46OkFm_eLAq_UZLw</link>
+<guid>https://mp.weixin.qq.com/s/R_Qg0N46OkFm_eLAq_UZLw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>日志与追踪的完美融合：OpenTelemetry MDC实践指南</title>
+<link>https://mp.weixin.qq.com/s/HkkV2wPkOwbo3LpY5HPyvg</link>
+<guid>https://mp.weixin.qq.com/s/HkkV2wPkOwbo3LpY5HPyvg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>因果推断在转转推荐场景下的实践</title>
+<link>https://mp.weixin.qq.com/s/CJENHw6hn_Hy93aNe7uo-w</link>
+<guid>https://mp.weixin.qq.com/s/CJENHw6hn_Hy93aNe7uo-w</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>数据库容灾等级</title>
+<link>https://www.cnblogs.com/lyhabc/p/18402134/disaster-recovery-database-levels-explained</link>
+<guid>https://www.cnblogs.com/lyhabc/p/18402134/disaster-recovery-database-levels-explained</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>在 Web 中判断页面是不是刷新</title>
