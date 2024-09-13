@@ -7647,3 +7647,10 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/chlinlearn/daily-blog
 append_entries: 0
 error when rendering xml, skip docs/chlinlearn
+------------------------------------------------------
+Started: 2024-09-13 19:10:05.096285
+Existing_entries: 91
+Fetching from https://rsshub.app/chlinlearn/daily-blog
+Filter: [Mysql中各种日志、缓冲区都是干嘛的？](https://juejin.cn/post/7411489477283856419)
+append_entries: 0
+Finish: 2024-09-13 19:10:32.830448
