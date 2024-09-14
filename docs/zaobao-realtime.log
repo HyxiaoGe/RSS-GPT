@@ -7180,3 +7180,33 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/zaobao/realtime/china
 append_entries: 0
 error when rendering xml, skip docs/zaobao-realtime
+------------------------------------------------------
+Started: 2024-09-14 04:05:48.953720
+Existing_entries: 704
+Fetching from https://rsshub.app/zaobao/realtime/china
+Append: [中国8月新房售价降速逾九年最快](https://www.zaobao.com/realtime/china/story20240914-4725754)
+Append: [中国山东玲珑轮胎工厂在塞尔维亚量产](https://www.zaobao.com/realtime/china/story20240914-4725694)
+Append: [涉京华城弊案 台北前都发局长证人转被告获准500万新台币交保](https://www.zaobao.com/realtime/china/story20240914-4725621)
+Append: [港记协主席：香港记者遭受历来最大规模滋扰行动](https://www.zaobao.com/realtime/china/story20240914-4725587)
+Append: [唐山一副市长中共党校培训期间在宿舍喝酒](https://www.zaobao.com/realtime/china/story20240914-4725455)
+Append: [缅甸将111名在缅北实施电诈犯罪嫌疑人移交中国](https://www.zaobao.com/realtime/china/story20240914-4725433)
+Append: [花大钱刷白墙应付上级检查 河南前地方官被双开](https://www.zaobao.com/realtime/china/story20240913-4722429)
+Append: [解放军陆军前副司令员被罢免全国人大代表职务](https://www.zaobao.com/realtime/china/story20240913-4724685)
+Append: [京东再次涨薪 零售等部门将用两年实现20薪](https://www.zaobao.com/realtime/china/story20240913-4721831)
+Append: [下午察：进口药消失在中国医院？](https://www.zaobao.com/realtime/china/story20240913-4722913)
+Append: [王毅：中国支持伊朗维护国家主权安全 反对外部干涉](https://www.zaobao.com/realtime/china/story20240913-4720659)
+Append: [港运输物流局长：正研究战略地点设新一代运输交汇枢纽](https://www.zaobao.com/realtime/china/story20240913-4719822)
+Append: [台陆委会主委：接受九二共识表示承认台湾是中华人民共和国一部分](https://www.zaobao.com/realtime/china/story20240913-4722612)
+Append: [中国外交部：美批涉中国泳手药检报告 将体育问题政治化](https://www.zaobao.com/realtime/china/story20240913-4723299)
+Append: [台湾媒体政策预算明年暴增逾65% 绿营遭质疑养网军](https://www.zaobao.com/realtime/china/story20240913-4719317)
+Append: [李尚福被罢免全国人大代表职务](https://www.zaobao.com/realtime/china/story20240913-4722857)
+Append: [中国鼓励跨国企业把原研化学药品等转移到国内生产](https://www.zaobao.com/realtime/china/story20240913-4722730)
+Append: [两艘德军舰周五过航台海](https://www.zaobao.com/realtime/china/story20240913-4722550)
+Append: [普华永道中国所被处以4.41亿人民币罚款并停业六个月](https://www.zaobao.com/realtime/china/story20240913-4722563)
+Append: [澳门下周五公布特首候选人确定名单](https://www.zaobao.com/realtime/china/story20240913-4722459)
+Append: [习近平：大力发展绿色低碳经济](https://www.zaobao.com/realtime/china/story20240913-4722400)
+Append: [日中优化营商环境工作组首次开会 日方要求恢复免签加强保护日侨](https://www.zaobao.com/realtime/china/story20240913-4611084)
+Append: [景俊海到人大教科文卫委员会任职](https://www.zaobao.com/realtime/china/story20240913-4721430)
+Append: [台风“贝碧嘉”预计星期天晚后在浙北至上海登陆](https://www.zaobao.com/realtime/china/story20240913-4720360)
+append_entries: 24
+Finish: 2024-09-14 04:05:49.066151

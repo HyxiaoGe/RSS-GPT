@@ -4,6 +4,17 @@
 <title>美团技术团队</title>
 <link>https://tech.meituan.com</link>
 
+<item>
+<title>KDD 2024 OAG-Challenge Cup赛道三项冠军技术方案解读</title>
+<link>https://tech.meituan.com/2024/09/12/kdd-2024-oag-challenge-cup-technical-interpretation.html</link>
+<guid>https://tech.meituan.com/2024/09/12/kdd-2024-oag-challenge-cup-technical-interpretation.html</guid>
+<content:encoded><![CDATA[
+
+大众点评技术部/搜索与内容智能团队组成的BlackPearl队伍，参加了2024年KDD 2024 OAG-Challenge Cup赛道的WhoIsWho-IND、PST、AQA三道赛题，以较大优势包揽了该赛道全部赛题的冠军，本文对这三个赛道的夺冠方案分别进行了解读，希望对大家有所帮助或启发。
+]]></content:encoded>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>新一代实验分析引擎：驱动履约平台的数据决策</title>

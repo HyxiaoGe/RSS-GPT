@@ -7119,3 +7119,9 @@ Fetch error: 503
 Fetch failed from https://rsshub.app/chaping/newsflash
 append_entries: 0
 error when rendering xml, skip docs/chaping
+------------------------------------------------------
+Started: 2024-09-14 04:05:48.244457
+Existing_entries: 21
+Fetching from https://rsshub.app/chaping/newsflash
+append_entries: 0
+Finish: 2024-09-14 04:05:48.391928

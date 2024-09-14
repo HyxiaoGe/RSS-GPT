@@ -7716,3 +7716,18 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/chlinlearn/daily-blog
 append_entries: 0
 error when rendering xml, skip docs/chlinlearn
+------------------------------------------------------
+Started: 2024-09-14 04:05:51.135736
+Existing_entries: 91
+Fetching from https://rsshub.app/chlinlearn/daily-blog
+Append: [互动中心平台演进](https://mp.weixin.qq.com/s/mzOPh6_TWAElDdX3qhhq6g)
+Append: [大模型长文本扩长技术实践探索：低成本且自适应不同长度](https://mp.weixin.qq.com/s/zm9n8dMNkHXIO8GBuytjww)
+Append: [搜推电商大模型及应用实践-上篇](https://mp.weixin.qq.com/s/J4aBvLOUbKzsI1DLyD21cw)
+Append: [登录页面测试用例设计](https://cloud.tencent.com/developer/article/2393499)
+Filter: [如何合并同一接口的相同参数的请求](https://juejin.cn/post/7413694742766387236)
+Append: [爱奇艺广告智能算力探索与实践](https://mp.weixin.qq.com/s/DU4uMuQ7WzU6bz1mAxsZug)
+Append: [LangChain: 大语言模型的新篇章](https://mp.weixin.qq.com/s/P94AvHvQcget9OqblrmD6g)
+Append: [深入理解MySQL中的CPU自旋锁及其调优实践](https://mp.weixin.qq.com/s/US24jhrYvOcbTYynOE_5-A)
+Filter: [Mysql中各种日志、缓冲区都是干嘛的？](https://juejin.cn/post/7411489477283856419)
+append_entries: 7
+Finish: 2024-09-14 04:05:51.238469

@@ -7635,3 +7635,29 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-09-14 04:05:50.773195
+Existing_entries: 1000
+Fetching from https://rsshub.app/oeeee/web/170
+Append: [【深圳街坊】观澜街道库坑社区开展亲子服务市集 关爱劳务工](http://www.oeeee.com/html/202409/14/1532204.html)
+Append: [【深圳街坊】观澜街道：侨心相聚，共话中秋叙乡情](http://www.oeeee.com/html/202409/14/1532201.html)
+Append: [【深圳街坊】观澜街道 | 多形式宣传活动 共筑网络安全防线](http://www.oeeee.com/html/202409/14/1532199.html)
+Append: [【深新闻】宝安沙井一污水井管道塌陷，臭水外溢，多部门已介入处理](https://m.mp.oeeee.com/oe/BAAFRD0000202409141000100.html)
+Append: [【深新闻】拳术、匕首术……深圳理工大学首届本科新生军训超燃](https://m.mp.oeeee.com/oe/BAAFRD0000202409131000054.html)
+Append: [【深新闻】燃！深理工首届本科新生军训进行中，关于选择大学他们说……](https://m.mp.oeeee.com/oe/BAAFRD0000202409131000051.html)
+Append: [【深新闻】惠及千名居民！“美好家园共建计划”又一项目完成升级焕新](https://m.mp.oeeee.com/oe/BAAFRD0000202409131000043.html)
+Append: [【深新闻】丹桂飘香又中秋，莲塘西岭社区举办非遗邻里节](https://m.mp.oeeee.com/oe/BAAFRD0000202409131000042.html)
+Append: [【深新闻】非遗粤剧庆中秋！生旦净丑，深圳少年演绎四大行当的“角儿”](https://m.mp.oeeee.com/oe/BAAFRD0000202409131000036.html)
+Append: [【深新闻】刘畊宏闪现深圳笔架山公园，不久前彭于晏也来打过卡](https://m.mp.oeeee.com/oe/BAAFRD0000202409131000007.html)
+Append: [【深圳街坊】西乡街道召开干部队伍作风整治动员部署会](http://www.oeeee.com/html/202409/13/1532055.html)
+Append: [【深新闻】深圳新能源公交车以旧换新，不分车型大小统一每辆补贴8万元](https://m.mp.oeeee.com/oe/BAAFRD000020240913999997.html)
+Append: [【深圳街坊】《山海行》燃爆2024广东文旅推介大会暨金秋文旅消费季启动仪式](http://www.oeeee.com/html/202409/13/1532053.html)
+Append: [【深新闻】深圳家装补贴，反响热烈！3天时间已有上千市民提交申请](https://m.mp.oeeee.com/oe/BAAFRD000020240913999993.html)
+Append: [【深新闻】深圳地铁“三铁”在建627公里，站城开发、轨交等产业齐放](https://m.mp.oeeee.com/oe/BAAFRD000020240913999963.html)
+Append: [【深新闻】马上办|宝安一污水井臭水外溢月余，多部门介入处理](https://m.mp.oeeee.com/oe/BAAFRD000020240913999912.html)
+Append: [【深新闻】坪山首家！坪山人民医院获选广东省区级心血管病防治服务机构](https://m.mp.oeeee.com/oe/BAAFRD000020240913999889.html)
+Append: [【深新闻】“大胸弟”成了“男”言之“隐”，南山妇幼为他妙手“拆腺”](https://m.mp.oeeee.com/oe/BAAFRD000020240913999870.html)
+Append: [【深新闻】“胖娃娃”看过来！南山妇幼获评深圳市0-6岁儿童肥胖门诊](https://m.mp.oeeee.com/oe/BAAFRD000020240913999867.html)
+Append: [【深新闻】“美好家园共建计划”一项目升级焕新，惠及15000名居民](https://m.mp.oeeee.com/oe/BAAFRD000020240913999842.html)
+append_entries: 20
+Finish: 2024-09-14 04:05:51.087758
