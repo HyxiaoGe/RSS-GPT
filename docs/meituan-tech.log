@@ -6720,3 +6720,9 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/meituan/tech
 append_entries: 0
 error when rendering xml, skip docs/meituan-tech
+------------------------------------------------------
+Started: 2024-09-15 11:08:08.321430
+Existing_entries: 26
+Fetching from https://rsshub.app/meituan/tech
+append_entries: 0
+Finish: 2024-09-15 11:08:10.472288
