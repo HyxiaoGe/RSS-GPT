@@ -7388,3 +7388,9 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/aliresearch/information
 append_entries: 0
 error when rendering xml, skip docs/aliresearch
+------------------------------------------------------
+Started: 2024-09-15 19:05:42.347882
+Existing_entries: 10
+Fetching from https://rsshub.app/aliresearch/information
+append_entries: 0
+Finish: 2024-09-15 19:05:44.504365
