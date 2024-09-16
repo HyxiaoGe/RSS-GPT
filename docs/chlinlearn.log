@@ -8137,3 +8137,11 @@ Fetching from https://rsshub.app/chlinlearn/daily-blog
 Filter: [Mysql中各种日志、缓冲区都是干嘛的？](https://juejin.cn/post/7411489477283856419)
 append_entries: 0
 Finish: 2024-09-16 08:09:25.342453
+------------------------------------------------------
+Started: 2024-09-16 09:08:17.676789
+Existing_entries: 98
+Fetching from https://rsshub.app/chlinlearn/daily-blog
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/chlinlearn/daily-blog
+append_entries: 0
+error when rendering xml, skip docs/chlinlearn
