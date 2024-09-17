@@ -7699,3 +7699,11 @@ Existing_entries: 21
 Fetching from https://rsshub.app/chaping/newsflash
 append_entries: 0
 Finish: 2024-09-17 10:08:12.838907
+------------------------------------------------------
+Started: 2024-09-17 11:08:19.946626
+Existing_entries: 21
+Fetching from https://rsshub.app/chaping/newsflash
+Fetch error: 503
+Fetch failed from https://rsshub.app/chaping/newsflash
+append_entries: 0
+error when rendering xml, skip docs/chaping
