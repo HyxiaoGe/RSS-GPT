@@ -36618,3 +36618,11 @@ Existing_entries: 1000
 Fetching from https://rsshub.app/sspai/index
 append_entries: 0
 Finish: 2024-09-18 09:04:10.809451
+------------------------------------------------------
+Started: 2024-09-18 10:02:44.505385
+Existing_entries: 1000
+Fetching from https://rsshub.app/sspai/index
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/sspai/index
+append_entries: 0
+error when rendering xml, skip docs/sspai
