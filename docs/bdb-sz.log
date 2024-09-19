@@ -8203,3 +8203,11 @@ Existing_entries: 157
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-09-19 12:08:46.583431
+------------------------------------------------------
+Started: 2024-09-19 13:11:09.247725
+Existing_entries: 157
+Fetching from https://rsshub.app/bendibao/news/sz
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+error when rendering xml, skip docs/bdb-sz
