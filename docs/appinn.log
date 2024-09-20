@@ -42877,3 +42877,11 @@ Append: [开关FaceTime竟然会扣费](https://meta.appinn.net/t/topic/61215)
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 1
 Finish: 2024-09-20 12:04:02.520356
+------------------------------------------------------
+Started: 2024-09-20 13:06:16.392091
+Existing_entries: 552
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 0
+Finish: 2024-09-20 13:06:19.099999
