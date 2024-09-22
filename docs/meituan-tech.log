@@ -8024,3 +8024,11 @@ Existing_entries: 26
 Fetching from https://rsshub.app/meituan/tech
 append_entries: 0
 Finish: 2024-09-22 18:08:48.177651
+------------------------------------------------------
+Started: 2024-09-22 19:08:30.621063
+Existing_entries: 26
+Fetching from https://rsshub.app/meituan/tech
+Fetch error: 524
+Fetch failed from https://rsshub.app/meituan/tech
+append_entries: 0
+error when rendering xml, skip docs/meituan-tech
