@@ -8974,3 +8974,11 @@ Existing_entries: 752
 Fetching from https://rsshub.app/zaobao/realtime/china
 append_entries: 0
 Finish: 2024-09-23 16:04:23.317039
+------------------------------------------------------
+Started: 2024-09-23 17:08:04.044504
+Existing_entries: 752
+Fetching from https://rsshub.app/zaobao/realtime/china
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+error when rendering xml, skip docs/zaobao-realtime
