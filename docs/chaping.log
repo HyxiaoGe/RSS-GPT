@@ -9019,3 +9019,11 @@ Existing_entries: 21
 Fetching from https://rsshub.app/chaping/newsflash
 append_entries: 0
 Finish: 2024-09-24 20:06:42.861090
+------------------------------------------------------
+Started: 2024-09-24 21:06:23.619821
+Existing_entries: 21
+Fetching from https://rsshub.app/chaping/newsflash
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/chaping/newsflash
+append_entries: 0
+error when rendering xml, skip docs/chaping
