@@ -9045,3 +9045,9 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 error when rendering xml, skip docs/bdb-sz
+------------------------------------------------------
+Started: 2024-09-24 06:07:36.032567
+Existing_entries: 157
+Fetching from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+Finish: 2024-09-24 06:07:38.179595
