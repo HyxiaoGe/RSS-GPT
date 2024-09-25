@@ -9213,3 +9213,11 @@ Fetch error: 503
 Fetch failed from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 error when rendering xml, skip docs/bdb-sz
+------------------------------------------------------
+Started: 2024-09-25 05:07:31.092904
+Existing_entries: 157
+Fetching from https://rsshub.app/bendibao/news/sz
+Fetch error: 503
+Fetch failed from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+error when rendering xml, skip docs/bdb-sz
