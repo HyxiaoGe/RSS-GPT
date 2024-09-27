@@ -8395,3 +8395,10 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/piyao/jrpy
 append_entries: 0
 error when rendering xml, skip docs/piyao
+------------------------------------------------------
+Started: 2024-09-27 11:11:18.479388
+Existing_entries: 61
+Fetching from https://rsshub.app/piyao/jrpy
+Append: [今日辟谣（2024年9月27日）](https://www.piyao.org.cn/20240927/d16606948da54fc6a93504783a479d73/c.html)
+append_entries: 1
+Finish: 2024-09-27 11:11:18.680193
