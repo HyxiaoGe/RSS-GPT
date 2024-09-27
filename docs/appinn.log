@@ -44173,3 +44173,12 @@ Fetching from https://meta.appinn.net/tag/ios.rss
 Fetching from https://meta.appinn.net/tag/macos.rss
 append_entries: 0
 Finish: 2024-09-27 06:03:32.914338
+------------------------------------------------------
+Started: 2024-09-27 07:02:41.600706
+Existing_entries: 560
+Fetching from https://meta.appinn.net/tag/chrome.rss
+Append: [无聊小技巧：利用 Chrome/Chromium 去除文本中的换行符](https://meta.appinn.net/t/topic/61434)
+Fetching from https://meta.appinn.net/tag/ios.rss
+Fetching from https://meta.appinn.net/tag/macos.rss
+append_entries: 1
+Finish: 2024-09-27 07:02:44.791790
