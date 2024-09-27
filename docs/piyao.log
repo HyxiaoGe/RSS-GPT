@@ -8387,3 +8387,11 @@ Existing_entries: 61
 Fetching from https://rsshub.app/piyao/jrpy
 append_entries: 0
 Finish: 2024-09-27 09:11:14.076533
+------------------------------------------------------
+Started: 2024-09-27 10:10:53.421661
+Existing_entries: 61
+Fetching from https://rsshub.app/piyao/jrpy
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/piyao/jrpy
+append_entries: 0
+error when rendering xml, skip docs/piyao
