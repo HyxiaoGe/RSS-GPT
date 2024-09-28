@@ -9859,3 +9859,11 @@ Existing_entries: 157
 Fetching from https://rsshub.app/bendibao/news/sz
 append_entries: 0
 Finish: 2024-09-28 15:06:52.431441
+------------------------------------------------------
+Started: 2024-09-28 16:04:22.402237
+Existing_entries: 157
+Fetching from https://rsshub.app/bendibao/news/sz
+Fetch error: 503
+Fetch failed from https://rsshub.app/bendibao/news/sz
+append_entries: 0
+error when rendering xml, skip docs/bdb-sz
