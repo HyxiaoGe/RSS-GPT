@@ -10036,3 +10036,11 @@ Existing_entries: 10
 Fetching from https://rsshub.app/aliresearch/information
 append_entries: 0
 Finish: 2024-09-30 15:08:04.254280
+------------------------------------------------------
+Started: 2024-09-30 16:08:22.616133
+Existing_entries: 10
+Fetching from https://rsshub.app/aliresearch/information
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/aliresearch/information
+append_entries: 0
+error when rendering xml, skip docs/aliresearch
