@@ -9713,3 +9713,9 @@ Fetch error: 503
 Fetch failed from https://rsshub.app/deeplearning/thebatch
 append_entries: 0
 error when rendering xml, skip docs/deeplearning
+------------------------------------------------------
+Started: 2024-10-02 00:11:12.119703
+Existing_entries: 23
+Fetching from https://rsshub.app/deeplearning/thebatch
+append_entries: 0
+Finish: 2024-10-02 00:11:12.425348
