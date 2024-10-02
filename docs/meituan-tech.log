@@ -9710,3 +9710,9 @@ Fetch error: 524
 Fetch failed from https://rsshub.app/meituan/tech
 append_entries: 0
 error when rendering xml, skip docs/meituan-tech
+------------------------------------------------------
+Started: 2024-10-02 01:36:58.473168
+Existing_entries: 26
+Fetching from https://rsshub.app/meituan/tech
+append_entries: 0
+Finish: 2024-10-02 01:36:58.671883

@@ -9064,3 +9064,11 @@ Existing_entries: 64
 Fetching from https://rsshub.app/piyao/jrpy
 append_entries: 0
 Finish: 2024-10-02 00:11:11.871469
+------------------------------------------------------
+Started: 2024-10-02 01:36:59.008064
+Existing_entries: 64
+Fetching from https://rsshub.app/piyao/jrpy
+Fetch error: 503
+Fetch failed from https://rsshub.app/piyao/jrpy
+append_entries: 0
+error when rendering xml, skip docs/piyao
