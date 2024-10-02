@@ -10510,3 +10510,11 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/zaobao/realtime/china
 append_entries: 0
 error when rendering xml, skip docs/zaobao-realtime
+------------------------------------------------------
+Started: 2024-10-02 04:09:58.047844
+Existing_entries: 752
+Fetching from https://rsshub.app/zaobao/realtime/china
+Fetch error: 503
+Fetch failed from https://rsshub.app/zaobao/realtime/china
+append_entries: 0
+error when rendering xml, skip docs/zaobao-realtime
