@@ -10605,3 +10605,11 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/chaping/newsflash
 append_entries: 0
 error when rendering xml, skip docs/chaping
+------------------------------------------------------
+Started: 2024-10-03 08:09:32.261969
+Existing_entries: 21
+Fetching from https://rsshub.app/chaping/newsflash
+Fetch error: 502
+Fetch failed from https://rsshub.app/chaping/newsflash
+append_entries: 0
+error when rendering xml, skip docs/chaping
