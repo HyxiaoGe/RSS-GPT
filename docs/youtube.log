@@ -11549,3 +11549,13 @@ Fetching from https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ
 Fetching from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
 append_entries: 0
 Finish: 2024-10-03 05:07:46.708903
+------------------------------------------------------
+Started: 2024-10-03 06:08:38.827425
+Existing_entries: 134
+Fetching from https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ
+Append: [【第316期】OpenAI地震(二)：大额融资和超高估值背后的忧虑](https://www.youtube.com/watch?v=E-oxK-I3nSE)
+Fetching from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
+Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (read timeout=30)
+Fetch failed from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
+append_entries: 1
+error when rendering xml, skip docs/youtube
