@@ -11611,3 +11611,12 @@ Fetching from https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ
 Fetching from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
 append_entries: 0
 Finish: 2024-10-03 13:12:52.543228
+------------------------------------------------------
+Started: 2024-10-03 14:06:31.665637
+Existing_entries: 135
+Fetching from https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ
+Fetch error: 502
+Fetch failed from https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ
+Fetching from https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw
+append_entries: 0
+Finish: 2024-10-03 14:06:31.956912

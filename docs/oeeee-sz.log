@@ -11071,3 +11071,9 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/oeeee/web/170
 append_entries: 0
 error when rendering xml, skip docs/oeeee-sz
+------------------------------------------------------
+Started: 2024-10-03 14:06:35.273898
+Existing_entries: 1000
+Fetching from https://rsshub.app/oeeee/web/170
+append_entries: 0
+Finish: 2024-10-03 14:06:35.511434
