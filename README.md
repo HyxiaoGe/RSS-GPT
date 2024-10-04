@@ -57,17 +57,17 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 
 - https://brett.trpstra.net/brettterpstra -> https://HyxiaoGe.github.io/RSS-GPT/brett-terpstra.xml
 - https://meta.appinn.net/tag/chrome.rss, https://meta.appinn.net/tag/ios.rss, https://meta.appinn.net/tag/macos.rss -> https://HyxiaoGe.github.io/RSS-GPT/appinn.xml
-- https://rsshub.app/sspai/index -> https://HyxiaoGe.github.io/RSS-GPT/sspai.xml
-- https://rsshub.app/36kr/motif/327685554177, https://rsshub.app/36kr/motif/327687077889, https://rsshub.app/36kr/motif/1366661828936836, https://rsshub.app/36kr/motif/1366662419875203, https://rsshub.app/36kr/motif/1756302767423108, https://rsshub.app/36kr/motif/327686815745, https://rsshub.app/36kr/motif/327685734401 -> https://HyxiaoGe.github.io/RSS-GPT/36kr.xml
-- https://rsshub.app/36kr/motif/327686782977 -> https://HyxiaoGe.github.io/RSS-GPT/36kr-ai.xml
-- https://rsshub.app/paulgraham/articles -> https://HyxiaoGe.github.io/RSS-GPT/paul-graham.xml
-- https://rsshub.app/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ, https://rsshub.app/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw -> https://HyxiaoGe.github.io/RSS-GPT/youtube.xml
-- https://rsshub.app/aliresearch/information -> https://HyxiaoGe.github.io/RSS-GPT/aliresearch.xml
-- https://rsshub.app/bendibao/news/sz -> https://HyxiaoGe.github.io/RSS-GPT/bdb-sz.xml
-- https://rsshub.app/chaping/newsflash -> https://HyxiaoGe.github.io/RSS-GPT/chaping.xml
-- https://rsshub.app/zaobao/realtime/china -> https://HyxiaoGe.github.io/RSS-GPT/zaobao-realtime.xml
-- https://rsshub.app/oeeee/web/170 -> https://HyxiaoGe.github.io/RSS-GPT/oeeee-sz.xml
-- https://rsshub.app/chlinlearn/daily-blog -> https://HyxiaoGe.github.io/RSS-GPT/chlinlearn.xml
-- https://rsshub.app/meituan/tech -> https://HyxiaoGe.github.io/RSS-GPT/meituan-tech.xml
-- https://rsshub.app/piyao/jrpy -> https://HyxiaoGe.github.io/RSS-GPT/piyao.xml
-- https://rsshub.app/deeplearning/thebatch -> https://HyxiaoGe.github.io/RSS-GPT/deeplearning.xml
+- https://rsshub.rssforever.com/sspai/index -> https://HyxiaoGe.github.io/RSS-GPT/sspai.xml
+- https://rsshub.rssforever.com/36kr/motif/327685554177, https://rsshub.rssforever.com/36kr/motif/327687077889, https://rsshub.rssforever.com/36kr/motif/1366661828936836, https://rsshub.rssforever.com/36kr/motif/1366662419875203, https://rsshub.rssforever.com/36kr/motif/1756302767423108, https://rsshub.rssforever.com/36kr/motif/327686815745, https://rsshub.rssforever.com/36kr/motif/327685734401 -> https://HyxiaoGe.github.io/RSS-GPT/36kr.xml
+- https://rsshub.rssforever.com/36kr/motif/327686782977 -> https://HyxiaoGe.github.io/RSS-GPT/36kr-ai.xml
+- https://rsshub.rssforever.com/paulgraham/articles -> https://HyxiaoGe.github.io/RSS-GPT/paul-graham.xml
+- https://rsshub.rssforever.com/youtube/channel/UC37KJihJowdlcjTaTPLHuwQ, https://rsshub.rssforever.com/youtube/channel/UCilwQlk62k1z7aUEZPOB6yw -> https://HyxiaoGe.github.io/RSS-GPT/youtube.xml
+- https://rsshub.rssforever.com/aliresearch/information -> https://HyxiaoGe.github.io/RSS-GPT/aliresearch.xml
+- https://rsshub.rssforever.com/bendibao/news/sz -> https://HyxiaoGe.github.io/RSS-GPT/bdb-sz.xml
+- https://rsshub.rssforever.com/chaping/newsflash -> https://HyxiaoGe.github.io/RSS-GPT/chaping.xml
+- https://rsshub.rssforever.com/zaobao/realtime/china -> https://HyxiaoGe.github.io/RSS-GPT/zaobao-realtime.xml
+- https://rsshub.rssforever.com/oeeee/web/170 -> https://HyxiaoGe.github.io/RSS-GPT/oeeee-sz.xml
+- https://rsshub.rssforever.com/chlinlearn/daily-blog -> https://HyxiaoGe.github.io/RSS-GPT/chlinlearn.xml
+- https://rsshub.rssforever.com/meituan/tech -> https://HyxiaoGe.github.io/RSS-GPT/meituan-tech.xml
+- https://rsshub.rssforever.com/piyao/jrpy -> https://HyxiaoGe.github.io/RSS-GPT/piyao.xml
+- https://rsshub.rssforever.com/deeplearning/thebatch -> https://HyxiaoGe.github.io/RSS-GPT/deeplearning.xml
