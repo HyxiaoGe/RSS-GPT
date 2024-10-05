@@ -10,6 +10,7 @@ import logging
 import datetime
 import requests
 from fake_useragent import UserAgent
+import html
 #from dateutil.parser import parse
 
 # 设置日志
@@ -46,40 +47,38 @@ def get_cfg(sec, name, default=None):
     if value:
         return value.strip('"')
 
+
 def clean_html(html_content):
     """
     This function is used to clean the HTML content.
-    It will remove all the <script>, <style>, <img>, <a>, <video>, <audio>, <iframe>, <input> tags.
-    Returns:
-        Cleaned text for summarization
     """
-    soup = BeautifulSoup(html_content, "html.parser")
+    try:
+        soup = BeautifulSoup(html_content, "html.parser")
 
-    for script in soup.find_all("script"):
-        script.decompose()
+        for element in soup(['script', 'style', 'img', 'a', 'video', 'audio', 'iframe', 'input']):
+            element.decompose()
 
-    for style in soup.find_all("style"):
-        style.decompose()
+        text = soup.get_text(separator=' ', strip=True)
+        return html.unescape(text)  # 解码HTML实体
+    except Exception as e:
+        logging.error(f"Error in clean_html: {str(e)}")
+        return html_content  # 如果清理失败，返回原始内容
 
-    for img in soup.find_all("img"):
-        img.decompose()
 
-    for a in soup.find_all("a"):
-        a.decompose()
+def extract_content(entry):
+    """
+    Extract content from various possible fields in the entry.
+    """
+    content_fields = ['content', 'summary', 'description', 'title']
+    for field in content_fields:
+        if hasattr(entry, field):
+            content = getattr(entry, field)
+            if isinstance(content, list) and content:
+                return content[0].value
+            elif isinstance(content, str):
+                return content
+    return ""  # 如果所有字段都不存在，返回空字符串
 
-    for video in soup.find_all("video"):
-        video.decompose()
-
-    for audio in soup.find_all("audio"):
-        audio.decompose()
-    
-    for iframe in soup.find_all("iframe"):
-        iframe.decompose()
-    
-    for input in soup.find_all("input"):
-        input.decompose()
-
-    return soup.get_text()
 
 def filter_entry(entry, filter_apply, filter_type, filter_rule):
     """
@@ -215,15 +214,13 @@ def output(sec, language):
 
             entry.title = generate_untitled(entry)
 
-            try:
-                entry.article = entry.content[0].value
-            except AttributeError:
-                try:
-                    entry.article = entry.description
-                except AttributeError:
-                    entry.article = entry.title
+            # 使用新的extract_content函数
+            raw_content = extract_content(entry)
+            cleaned_article = clean_html(raw_content)
 
-            cleaned_article = clean_html(entry.article)
+            logging.info(f"Processing entry: {entry.title}")
+            logging.debug(f"Raw content length: {len(raw_content)}")
+            logging.debug(f"Cleaned content length: {len(cleaned_article)}")
 
             if not filter_entry(entry, filter_apply, filter_type, filter_rule):
                 logging.info(f"Filtered: [{entry.title}]({entry.link})")
@@ -256,6 +253,8 @@ def output(sec, language):
 
             append_entries.append(entry)
             logging.info(f"Appended: [{entry.title}]({entry.link})")
+            if entry.summary:
+                logging.debug(f"Summary: {entry.summary[:100]}...")  # 记录摘要的前100个字符
 
     logging.info(f'Appended entries: {len(append_entries)}')
 
