@@ -6,6 +6,168 @@
 
 
 <item>
+<title>性能剖析利器-Conan</title>
+<link>https://mp.weixin.qq.com/s/kMgHQ7NZh_sN-T4cgGs30g</link>
+<guid>https://mp.weixin.qq.com/s/kMgHQ7NZh_sN-T4cgGs30g</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Wed, 02 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>基于大模型搭建运力业务的“小红书”</title>
+<link>https://mp.weixin.qq.com/s/2mJ9dRBG14Q5ShKEXjKmZg</link>
+<guid>https://mp.weixin.qq.com/s/2mJ9dRBG14Q5ShKEXjKmZg</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Wed, 02 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>KLimiter自适应限流器</title>
+<link>https://mp.weixin.qq.com/s/kIdeQTLJQSGxvjj4bMHPOQ</link>
+<guid>https://mp.weixin.qq.com/s/kIdeQTLJQSGxvjj4bMHPOQ</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Wed, 02 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>深入理解Linux的TCP三次握手</title>
+<link>https://mp.weixin.qq.com/s/LIeb5DwMS6RS2YhEw47GDA</link>
+<guid>https://mp.weixin.qq.com/s/LIeb5DwMS6RS2YhEw47GDA</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Wed, 02 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>给Java同仁单点的AI"开胃菜"--搭建一个自己的本地问答系统</title>
+<link>https://mp.weixin.qq.com/s/QQAjH1YT_KzHn3sCpZleVw</link>
+<guid>https://mp.weixin.qq.com/s/QQAjH1YT_KzHn3sCpZleVw</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Sun, 29 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>结构化多元时序模型在携程业务量上的预测应用</title>
+<link>https://mp.weixin.qq.com/s/QMADitomv39FKcUlm6p5Tw</link>
+<guid>https://mp.weixin.qq.com/s/QMADitomv39FKcUlm6p5Tw</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Sun, 29 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>稿件生产业务并发竞争场景下的安全性保障</title>
+<link>https://mp.weixin.qq.com/s/9RT-rtTbHgUX648faq1Y4w</link>
+<guid>https://mp.weixin.qq.com/s/9RT-rtTbHgUX648faq1Y4w</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Sun, 29 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>如何让Android的前端页面像iOS一样“优雅”？</title>
+<link>https://mp.weixin.qq.com/s/PIotyPLCfG9Zw9fC3iazww</link>
+<guid>https://mp.weixin.qq.com/s/PIotyPLCfG9Zw9fC3iazww</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Sun, 29 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>OpenTelemetry 实战：从 0 到 1 编写一个 Instrumentation</title>
+<link>https://mp.weixin.qq.com/s/pd7wrR8C6P6FJJHVW-5pPA</link>
+<guid>https://mp.weixin.qq.com/s/pd7wrR8C6P6FJJHVW-5pPA</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Sat, 28 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>商家营销工具架构升级总结</title>
+<link>https://mp.weixin.qq.com/s/A8_uZQnj3pXaNqE_Fdx2kw</link>
+<guid>https://mp.weixin.qq.com/s/A8_uZQnj3pXaNqE_Fdx2kw</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Sat, 28 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>探索更强中文Embedding模型：Conan-Embedding</title>
+<link>https://mp.weixin.qq.com/s/5upU8Yf-6Bcn0kfxk7-V2Q</link>
+<guid>https://mp.weixin.qq.com/s/5upU8Yf-6Bcn0kfxk7-V2Q</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Sat, 28 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>字节跳动合并编译实践</title>
+<link>https://mp.weixin.qq.com/s/iGbeHHxTSn7xrvGzPW_0Mg</link>
+<guid>https://mp.weixin.qq.com/s/iGbeHHxTSn7xrvGzPW_0Mg</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Sat, 28 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>反思架构师应该如何思考和决策</title>
+<link>https://mp.weixin.qq.com/s/pKLOHD4oCj9HEAs8utH1sQ</link>
+<guid>https://mp.weixin.qq.com/s/pKLOHD4oCj9HEAs8utH1sQ</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Sat, 28 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>淘天算法工程师玩转《黑神话》，多模态大模型如何成为天命AI</title>
+<link>https://mp.weixin.qq.com/s/SNXJS2SeB33_63jxixdiTw</link>
+<guid>https://mp.weixin.qq.com/s/SNXJS2SeB33_63jxixdiTw</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Thu, 26 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>如何在多云环境下做好高效应用交付？｜滴滴国际化建站提效系列收官</title>
+<link>https://mp.weixin.qq.com/s/C6AD9ruGScWnO58a3qaMqQ</link>
+<guid>https://mp.weixin.qq.com/s/C6AD9ruGScWnO58a3qaMqQ</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Thu, 26 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>代码10倍提速！吃透底层架构就是如此简单</title>
+<link>https://mp.weixin.qq.com/s/zRi2qxihoQ_7Nv7HEx0YeQ</link>
+<guid>https://mp.weixin.qq.com/s/zRi2qxihoQ_7Nv7HEx0YeQ</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Thu, 26 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>AI技术在爱奇艺视频搜索中的应用</title>
+<link>https://mp.weixin.qq.com/s/K02gGawk_4Ej5rWlPxfAZQ</link>
+<guid>https://mp.weixin.qq.com/s/K02gGawk_4Ej5rWlPxfAZQ</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Thu, 26 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>货拉拉多场景大模型AI助理实践</title>
+<link>https://mp.weixin.qq.com/s/xZsY10bZkKQsxRVG4PVlvQ</link>
+<guid>https://mp.weixin.qq.com/s/xZsY10bZkKQsxRVG4PVlvQ</guid>
+<content:encoded><![CDATA[
+
+]]></content:encoded>
+<pubDate>Thu, 26 Sep 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
 <title>如何重构 React 组件？</title>
 <link>https://mp.weixin.qq.com/s/s6CzRu8FY4tt367jeUMebA</link>
 <guid>https://mp.weixin.qq.com/s/s6CzRu8FY4tt367jeUMebA</guid>
