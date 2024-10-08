@@ -4,6 +4,28 @@
 <title>值得一读技术博客</title>
 <link>https://daily-blog.chlinlearn.top/blogs/1</link>
 
+<item>
+<title>Java Web应用升级故障案例解析</title>
+<link>https://mp.weixin.qq.com/s/ipPJokkj3fTQlOlqXd5XPQ</link>
+<guid>https://mp.weixin.qq.com/s/ipPJokkj3fTQlOlqXd5XPQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 07 Oct 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 07 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>既然有 epoll ，为什么又折腾出 Netty, gnet 等框架 ？</title>
+<link>https://mp.weixin.qq.com/s/WVyxhbFknTuVT-Uu3OmOqg</link>
+<guid>https://mp.weixin.qq.com/s/WVyxhbFknTuVT-Uu3OmOqg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 07 Oct 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 07 Oct 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>性能剖析利器-Conan</title>
