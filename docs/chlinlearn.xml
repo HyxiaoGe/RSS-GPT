@@ -4,6 +4,72 @@
 <title>值得一读技术博客</title>
 <link>https://daily-blog.chlinlearn.top/blogs/1</link>
 
+<item>
+<title>Swift Macro 在业务开发中的探索与实践</title>
+<link>https://mp.weixin.qq.com/s/3eivuJtH6zcd123DUEgLhw</link>
+<guid>https://mp.weixin.qq.com/s/3eivuJtH6zcd123DUEgLhw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Taro 鸿蒙技术内幕系列：如何将 React 代码跑在 ArkUI 上</title>
+<link>https://mp.weixin.qq.com/s/2EeUPCg_4DJrq8gcEx3lfQ</link>
+<guid>https://mp.weixin.qq.com/s/2EeUPCg_4DJrq8gcEx3lfQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>MySQL 回收表碎片实践教程</title>
+<link>https://mp.weixin.qq.com/s/RPKdMnd5IHWLNy8GqM_EfA</link>
+<guid>https://mp.weixin.qq.com/s/RPKdMnd5IHWLNy8GqM_EfA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>微服务与分布式系统设计看这篇就够了！</title>
+<link>https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw</link>
+<guid>https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>实操｜基于抽象语法树（AST）的代码问题修复</title>
+<link>https://mp.weixin.qq.com/s/3g5aHnLXFoouqVKL3yXzvw</link>
+<guid>https://mp.weixin.qq.com/s/3g5aHnLXFoouqVKL3yXzvw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>在Netflix构建全球缓存系统：深入了解全局复制</title>
+<link>https://mp.weixin.qq.com/s/pYTzgXcWYYpruj7BwU8GDA</link>
+<guid>https://mp.weixin.qq.com/s/pYTzgXcWYYpruj7BwU8GDA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+<pubDate>Tue, 22 Oct 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>Tritonserver 在得物的最佳实践</title>
