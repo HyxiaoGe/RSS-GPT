@@ -2,7 +2,63 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/szjf</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+
+<item>
+<title>【深圳街坊】“职工夜校，点亮职工成才之路”——龙岗街道总工会“龙工夜校”正式启动</title>
+<link>http://www.oeeee.com/html/202410/29/1545568.html</link>
+<guid>http://www.oeeee.com/html/202410/29/1545568.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 29 Oct 2024 12:27:21 GMT</pubDate>
+<pubDate>Tue, 29 Oct 2024 12:27:21 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】实例＋实战！龙田街道舆情应对处置培训会干货十足</title>
+<link>http://www.oeeee.com/html/202410/29/1545566.html</link>
+<guid>http://www.oeeee.com/html/202410/29/1545566.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 29 Oct 2024 12:19:46 GMT</pubDate>
+<pubDate>Tue, 29 Oct 2024 12:19:46 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】全国糖酒会深圳启幕，多举措促商贸对接、助品牌出海</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410291017411.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410291017411.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 29 Oct 2024 09:59:34 GMT</pubDate>
+<pubDate>Tue, 29 Oct 2024 09:59:34 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】秋日玩乐畅享实惠出发，“滴滴567天天打车5折”深圳上线</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410291017140.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410291017140.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 29 Oct 2024 08:56:48 GMT</pubDate>
+<pubDate>Tue, 29 Oct 2024 08:56:48 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】前三季度深圳绿电消费全省最高，《绿色电力消费倡议》发布</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410291016969.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410291016969.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 29 Oct 2024 07:15:34 GMT</pubDate>
+<pubDate>Tue, 29 Oct 2024 07:15:34 GMT</pubDate>
+</item>
 
 <item>
 <title>【深新闻】“鹏城第一峰”景石开展安全修复，网友：才知道石头是水泥做</title>
@@ -10,9 +66,7 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410291017848.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Tue, 29 Oct 2024 12:05:01 GMT</pubDate>
 <pubDate>Tue, 29 Oct 2024 12:05:01 GMT</pubDate>
 </item>
 <item>
@@ -21,9 +75,7 @@
 <guid>http://www.oeeee.com/html/202410/29/1545542.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Tue, 29 Oct 2024 11:14:59 GMT</pubDate>
 <pubDate>Tue, 29 Oct 2024 11:14:59 GMT</pubDate>
 </item>
 <item>
@@ -32,9 +84,7 @@
 <guid>http://www.oeeee.com/html/202410/29/1545539.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Tue, 29 Oct 2024 11:10:36 GMT</pubDate>
 <pubDate>Tue, 29 Oct 2024 11:10:36 GMT</pubDate>
 </item>
 <item>
@@ -43,9 +93,7 @@
 <guid>http://www.oeeee.com/html/202410/29/1545537.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Tue, 29 Oct 2024 11:05:59 GMT</pubDate>
 <pubDate>Tue, 29 Oct 2024 11:05:59 GMT</pubDate>
 </item>
 <item>
@@ -54,12 +102,9 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410291017338.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Tue, 29 Oct 2024 09:31:29 GMT</pubDate>
-<pubDate>Tue, 29 Oct 2024 09:31:29 GMT</pubDate>
 </item>
-
 <item>
 <title>【深新闻】「中国式样」“爆闪”深圳夜空！</title>
 <link>https://m.mp.oeeee.com/oe/BAAFRD0000202410291017400.html</link>
@@ -9040,51 +9085,6 @@ polyp”，是一种主要发生在儿童，尤其是5至10岁儿童的肠道息
 <img src="https://p1-mp.oeeee.com/202408/30/750x500_66d1cf75dbb53.png" /><br />  <div id="docContent"><p>福田区福保街道紧紧围绕关心下一代健康成长这一使命，充分发挥“五老”作用，8月28日，福保街道关工委开展关心下一代工作培训活动，特邀深圳市关工委常务副主任、福田区关工委主任陈志新授课，福保街道关工委主任徐海霞、邓堂华，各社区“五老”代表及街道各级关心下一代工作负责人等60人参加。</p><p>陈志新作主题为《传承和发扬“五老”精神，做关心下一代“大先生”》的辅导讲座，在课程中，陈志新回顾了“五老”精神的源头，展示了关工委在关心下一代工作中的具体成就和案例，详细介绍了相关的工作方法。在思想道德建设方面，要积极引导青少年培育和践行社会主义核心价值观；在关爱关怀青少年方面，强调要整合各方资源，加强青少年法治教育和权益保护，通过丰富多彩、形式多样的活动，为青少年打造健康成长的良好环境，引导青少年树立正确的世界观、人生观和价值观；在推动青少年社会实践方面，鼓励青少年积极参与志愿服务、科技创新等活动，提高他们的社会实践能力和综合素质。</p><div class="section nd-element nd-img"><img src="https://p1-mp.oeeee.com/202408/30/800x533_66d1cf4b797a5.png" /><p class="nd-element J_ndimg_tips J_ndimg_h5" style="color: #8d8d8d; margin-top: 10px; font-size: 16px; line-height: 24px; padding: 0; margin: 10px 0 0;"></p></div><div class="section nd-element nd-img"><img src="https://p1-mp.oeeee.com/202408/30/800x601_66d1cf4b9e1b8.png" /><p class="nd-element J_ndimg_tips J_ndimg_h5" style="color: #8d8d8d; margin-top: 10px; font-size: 16px; line-height: 24px; padding: 0; margin: 10px 0 0;"></p></div><p>陈志新指出，各级“五老”成员要传承和发扬“五老”精神，努力成为关心下一代的“大先生”，立大先生之志，修大先生之德，树大先生之风，增大先生之智，行大先生之举。号召大家要齐心协力，以爱之名，共同守护下一代的成长之路。</p><p>陈志新的授课不仅为今后的关心下一代工作指明了方向，更激励着越来越多的人投身到关心下一代的队伍中来。各社区“五老”纷纷表示，要认真贯彻落实关工委的工作部署，以更加饱满的热情投入到新区关心下一代工作中来。益田社区“五老”代表王有邦表示，“只要有一颗愿意为社会奉献的心，人人都可以成为‘大老师’。退休不褪色，要发挥好“五老”在教育引导关爱保护青少年方面的独特优势和重要作用，积极搭建平台，共同为青少年的健康成长撑起一片蓝天。”</p><div class="section nd-element nd-img"><img src="https://p1-mp.oeeee.com/202408/30/800x450_66d1cf55e3c3a.png" /><p class="nd-element J_ndimg_tips J_ndimg_h5" style="color: #8d8d8d; margin-top: 10px; font-size: 16px; line-height: 24px; padding: 0; margin: 10px 0 0;"></p></div><div class="section nd-element nd-img"><img src="https://p1-mp.oeeee.com/202408/30/800x600_66d1cf560d031.png" /><p class="nd-element J_ndimg_tips J_ndimg_h5" style="color: #8d8d8d; margin-top: 10px; font-size: 16px; line-height: 24px; padding: 0; margin: 10px 0 0;"></p></div><p>据了解，今年以来，在福保街道党工委、社区党委的带领下，福保街道各级关工委积极开展有利于青少年健康成长的各类实践活动。各级关工委充分发挥辖区“五老”资源丰富的优势，重点开展了“暑期军体拳系列课堂”“深港童心圆系列活动”“小候鸟作业辅导班”“科技创客展示课”“青少年体能训练”等“假日课程”轮番上演，受到辖区青少年及家长的热烈欢迎，截至目前，已服务超过3000人次。</p><div class="section nd-element nd-img"><img src="https://p1-mp.oeeee.com/202408/30/800x600_66d1cf681a785.png" /><p class="nd-element J_ndimg_tips J_ndimg_h5" style="color: #8d8d8d; margin-top: 10px; font-size: 16px; line-height: 24px; padding: 0; margin: 10px 0 0;"></p></div><div class="section nd-element nd-img"><img src="https://p1-mp.oeeee.com/202408/30/800x600_66d1cf6839555.png" /><p class="nd-element J_ndimg_tips J_ndimg_h5" style="color: #8d8d8d; margin-top: 10px; font-size: 16px; line-height: 24px; padding: 0; margin: 10px 0 0;"></p></div><p>接下来，福保街道关工委也将继续以“五老”精神为指引，共同为青少年的成长成才贡献力量，相信福保街道的青少年将迎来更加美好的未来。</p><p>采写：南都记者 张馨怡 通讯员 胡萍 郑青青</p><p>编辑：张馨怡</p><!-- 文章标签 --><!-- 南方都市报logo --><!-- 南方都市报logo 结束 --><!-- 赞赏 --><!--记者空间--><!-- APP分享 --><!-- 版权 --><!--版权--></div>
 ]]></content:encoded>
 <pubDate>Fri, 30 Aug 2024 13:56:27 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】突出重点，精准发力，构建工业减污降碳协同增效评价指标体系</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD000020240830994965.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD000020240830994965.html</guid>
-<content:encoded><![CDATA[
-<img src="https://p1-mp.oeeee.com/202408/30/750x500_66d1b4a541db3.png" /><br />  <div id="docContent"><p>2022年6月生态环境部印发《减污降碳协同增效实施方案》提出，开展重点城市、产业园区、重点企业等多层面、多领域减污降碳协同度评价研究，引导各地区优化协同管理机制，发挥基层积极性和创造力，形成各具特色的典型做法和有效模式。龙华区自2023年12月入选国家首批城市减污降碳协同创新试点以来，积极探索高密度工业建成区减污降碳协同增效新模式、新机制、新路径。通过前期对龙华区工业企业和园区调研，在掌握大量企业资料的基础上，构建了龙华区工业减污降碳协同增效评价指标体系。</p><p>龙华区工业减污降碳协同增效评价指标体系涵盖能源、大气、废水、固废等多个要素，体现了评价体系的整体性。同时划分一、二、三级指标，形成层次分明的评价结构，有助于反映工业企业和园区不同层面的减污降碳协同度，为下一步构建区级减污降碳协同评价指标体系奠定了基础。</p><div class="section nd-element nd-img"><img src="https://p1-mp.oeeee.com/202408/30/800x646_66d1b44816cc3.png" /><p class="nd-element J_ndimg_tips J_ndimg_h5" style="color: #8d8d8d; margin-top: 10px; font-size: 16px; line-height: 24px; padding: 0; margin: 10px 0 0;"></p></div><p>工业企业减污降碳协同增效评价指标体系，是基于污染物与二氧化碳排放同根同源的特征，从生产协同、工艺协同、治理协同、管理协同等方面进行评价，突出企业在源头替代、过程管控、末端治理等环节减污降碳措施应用，契合电子制造、塑料制品业等龙华区重点工业行业的污染物和温室气体排放特征。</p><p>工业园区减污降碳协同增效评价指标体系，从园区协同效率、协同路径、协同管理三个维度进行评价，聚焦污染治理和碳减排的关键指标，突出协同耦合度和结构调整措施协同度，建立多维度、多要素、多层次的评价指标体系。</p><p>龙华区工业减污降碳协同增效评价指标体系具有以下亮点：</p><p>（一）系统性</p><p>既注重降碳、减污这两项生态环境指标，又兼顾扩绿、增长这两项绿色高质量发展指标，科学、系统地反映了工业企业和园区减污降碳协同水平。</p><p>（二）示范性</p><p>有助于识别工业企业和园区减污降碳协同的重点环节，有效指导企业和园区提升减污降碳协同度，对同类型工业城区的产业结构绿色低碳转型具有示范指引作用。</p><p>（三）可量化</p><p>为全面推进工业企业和园区减污降碳协同增效提供了量化工具，有助于识别工业企业和园区在减污降碳协同增效工作中存在的短板，推动企业和园区对标先进、改造升级。另外，通过对比时间纬度上的减污降碳协同指数变化，可以真实反映企业和园区绿色低碳转型成效。</p><p>下一步，市生态环境局龙华管理局将运用龙华区工业减污降碳协同增效评价指标体系，对辖区重点企业和园区开展评价，摸清企业和园区减污降碳协同现状，并对评价结果进行滚动更新。在此基础上，通过实施多元协同共治策略，加快推进龙华区减污降碳协同创新试点工作，形成可推广、可复制的减污降碳协同增效“龙华模式”,为全国高密度工业建成区贡献“龙华经验”。</p><p>采写：南都记者 潘莹瑜 通讯员 周灿 魏任</p><p>编辑：潘莹瑜</p><!-- 文章标签 --><!-- 南方都市报logo --><!-- 南方都市报logo 结束 --><!-- 赞赏 --><!--记者空间--><!-- APP分享 --><!-- 版权 --><!--版权--></div>
-]]></content:encoded>
-<pubDate>Fri, 30 Aug 2024 12:02:26 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】深圳市生态环境局龙华管理局召开建设工程污染防治工作培训会</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD000020240830994962.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD000020240830994962.html</guid>
-<content:encoded><![CDATA[
-<img src="https://p1-mp.oeeee.com/202408/30/750x500_66d1b0da10e11.png" /><br />  <div id="docContent"><p>8月30日下午，深圳市生态环境局龙华管理局（以下简称“龙华管理局”）组织召开第三季度建设工程污染防治工作培训会，旨在提升龙华辖区内各线性工程项目的污染防治工作水平。区住房和建设局、区水务局、市交通运输局龙华管理局、区建筑工务署、各街道办事处等单位业务负责人，以及深圳市龙华区辖区内在建地铁、市政道路项目工程代表，共计70余人参会。</p><div class="section nd-element nd-img"><img src="https://p1-mp.oeeee.com/202408/30/800x600_66d1afcedbc12.jpg" /><p class="nd-element J_ndimg_tips J_ndimg_h5" style="color: #8d8d8d; margin-top: 10px; font-size: 16px; line-height: 24px; padding: 0; margin: 10px 0 0;"></p></div><p>会议指出，龙华区正处于高速发展时期，辖区内在建地铁、市政道路等线性工程数量多、战线长，其污染防治工作是一场任务艰巨的持久战，各建设项目要提高政治站位，高度重视建设工程污染防治工作，积极承担扬尘、噪声污染防治的社会责任，持续提升污染防治的意识和水平，助力龙华区打赢污染防治攻坚战。</p><p>本次培训会邀请了来自深圳市环境科学研究院两名专家进行授课，专家们结合线性工程特征，围绕建设工程扬尘、噪声污染防治的政策和技术规范进行重点讲解，结合案例分析优秀做法。龙华区优秀工地代表认真总结并分享了自身在建设工程污染防治方面的心得经验。最后各参会代表就培训内容进行了深入讨论，互相交流工作经验，共同探讨接下来开展污染防治工作的方式方法、标准要求。</p><div class="section nd-element nd-img"><img src="https://p1-mp.oeeee.com/202408/30/800x600_66d1afea044e1.jpg" /><p class="nd-element J_ndimg_tips J_ndimg_h5" style="color: #8d8d8d; margin-top: 10px; font-size: 16px; line-height: 24px; padding: 0; margin: 10px 0 0;"></p></div><p>随着秋冬防期临近，颗粒污染物已成空气污染的首要污染物，扎实推进抑尘控尘工作、切实降低颗粒污染物高值是当前改善空气质量工作的关键。下一步，龙华管理局将持续加大巡查力度及查处力度，做好龙华区建设工程污染防治工作，扎实污染源头治理、协同治理、精细治理，推动全市空气质量持续改善，为“深圳蓝”和“宁静城市”建设贡献龙华力量。</p><p>采写：南都记者 潘莹瑜 通讯员 李沛奕</p><p>编辑：潘莹瑜</p><!-- 文章标签 --><!-- 南方都市报logo --><!-- 南方都市报logo 结束 --><!-- 赞赏 --><!--记者空间--><!-- APP分享 --><!-- 版权 --><!--版权--></div>
-]]></content:encoded>
-<pubDate>Fri, 30 Aug 2024 11:46:31 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】在近50℃的环境下争分夺秒！他们只为保障旅客“用水自由”</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD000020240830995132.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD000020240830995132.html</guid>
-<content:encoded><![CDATA[
-<img src="https://static.oeeee.com/nv/202408/30/d607c72330e649a485ae2f0cc9afe31a.jpg" /><br />   <blockquote><p>南都讯 摄像赵炎雄 记者张艳丽 为了让旅客在高铁上能“用水自由”和使用干净的厕所，深圳北站上水班的同事们在近50℃的股道里重复着立岗接车、开关锁闭盖板门、接管、拔管等动作，他们的作业时间从凌晨6时开始，直至24时才收工。2024年暑运以来，深圳北站日均对127趟列车进行上水吸污作业，共作业7854趟，一切只为让旅客有着良好的乘车体验。&nbsp;【视频编辑/剪辑陈皓晖】</p></blockquote><br /> 南都讯 摄像赵炎雄 记者张艳丽 为了让旅客在高铁上能“用水自由”和使用干净的厕所，深圳北站上水班的同事们在近50℃的股道里重复着立岗接车、开关锁闭盖板门、接管、拔管等动作，他们的作业时间从凌晨6时开始，直至24时才收工。2024年暑运以来，深圳北站日均对127趟列车进行上水吸污作业，共作业7854趟，一切只为让旅客有着良好的乘车体验。&nbsp;【视频编辑/剪辑陈皓晖】<div class="clearfix"><div class="cont_praise fr" id="praisenum"><span>1</span></div></div><!--记者空间-->
-]]></content:encoded>
-<pubDate>Fri, 30 Aug 2024 14:47:01 GMT</pubDate>
-</item>
-<item>
-<title>【深圳街坊】龙岗街道着力高质量文化赋能，绘就民生幸福底色</title>
-<link>http://www.oeeee.com/html/202408/30/1527396.html</link>
-<guid>http://www.oeeee.com/html/202408/30/1527396.html</guid>
-<content:encoded><![CDATA[
-<img src="https://oeimg2.cache.oeeee.com/202108/26/6126fd7f7ff16.jpg" /><br />  <p>着眼于满足居民日益增长的美好生活需要，进一步丰富广大居民的精神文化生活，近年来，龙岗街道立足辖区实际，持续加强文化阵地建设，汇聚高质量文化供给强大合力，围绕群众感兴趣、愿意来、得实惠的主题，大力开展内容丰富、形式多样、精彩纷呈的文明实践活动，让“烟火气”和“文明味”交融，真正将文化服务送进群众心里，为群众幸福生活“加码”。</p><p><strong>打造特色文化IP</strong></p><p><strong>文化生活“丰富度”全面提升</strong></p><p>龙岗街道坚持为民惠民理念，推动新时代文明实践服务常态化开展，并将传承与创新融合打造特色文化IP。今年年初，街道精心策划了“我在新时代文明实践中心过大年”活动，五天的活动中，舞狮表演、剪窗花、DIY福袋等传统文化体验项目让居民感受到了浓厚的年味。街道还特别为坚守岗位的社区物业保安、环卫工人、外卖小哥等一线工作者送上了热腾腾的饺子，让留深过年的居民感受到了家的温暖和关怀。</p><p>此外，“龙岗河畔City Walk”诗人作家采风行文明实践活动于四月份正式启动，吸引了众多文艺精英参与。他们通过实地走访龙岗河、鹤湖新居、龙园等地，用诗文记录街道的独特魅力。随后的“诗意龙岗·美好生活”主题诗文征集活动更是收到了500余首来稿，进一步弘扬了龙岗的文化底蕴。而在端午节期间，龙岗街道更是利用多方力量，在龙园举办了非遗文化节。通过丰富的主题活动和文艺演出，不仅让居民近距离感受了非遗文化的魅力，还通过文创集市、潮玩地带等形式，催生了消费新热点，打造了龙岗街道独特的诗歌文化IP品牌。</p><p><strong>精准对接需求</strong></p><p><strong>阵地建设“幸福感”不断提升</strong></p><p>怎样将新时代文明实践与传统文化有机结合？龙岗街道还有好点子。街道聚力文化活动平台搭建，充分整合各类资源，搭建居民才艺展示平台，锻炼和培育群众文化队伍。如通过线上线下相结合的方式，街道成功打造了“客韵大舞台”文化品牌，全年共开展各类文体活动40余场，服务人数达60万余人次。此外，街道还广泛开展非遗传承活动，开设戏曲表演、舞龙、龙岗皆歌等课程，让居民在参与中传承和弘扬传统文化。</p><p>为推动全民健身工作，龙岗街道开展了一系列公益体育培训活动。无论是进企业的“你点我送”公益体育培训，还是针对青少年的篮球、足球、网球培训，都深受居民喜爱。此外，街道还组织了长跑日活动、趣味运动会等全民健身系列活动，服务人数超过2万人次。</p><p>在丰富群众文化生活的同时，龙岗街道还注重精准对接不同群体的文化需求。针对企业职工的需求，街道开设了“工会赋能，职工夜校”素质技能提升培训班，提供直播、收集摄影、礼仪搭配等课程；针对老年人的需求，街道打造了“长青筑梦 乐学银龄”老年教育康养学游品牌活动，让他们在“行走的课堂”中享受学习的乐趣；针对青少年的需求，街道联合企业举办了“禾歌杯”小厨神争霸赛，培养他们的劳动精神和动手能力。同时，街道还全力做好阅读推广信息服务工作，提升海航城文体中心管理运营服务质量，为居民提供了更加便捷、优质的文化服务。</p><p><strong>汇聚多元力量<br /></strong></p><p><strong>点亮居民文化生活</strong></p><p>未来，龙岗街道将继续整合多方力量，深入推进“龙园客韵文创小镇”建设工作，依托客家传统特色风貌和丰富的物质遗产资源，探索“文化+商业”“文化+旅游”“文化+科技”等多种模式组合的多元利用模式。通过改造鹤湖新居周边场地、建立休闲文化走廊等措施，进一步盘活文化景观资源，大力发展文化旅游、文化智造、创意生活等产业。龙岗街道正以前所未有的决心和力度，推动区域文化高地建设再上新台阶。</p><p>龙岗街道的高质量文化供给不仅丰富了群众的精神世界，更提升了群众的文化幸福感。在这片充满活力的土地上，文化的种子正在生根发芽，绽放出绚丽多彩的花朵。</p><p><br /></p><div class="content-page"></div>
-]]></content:encoded>
-<pubDate>Fri, 30 Aug 2024 12:26:17 GMT</pubDate>
-</item>
-<item>
-<title>【深圳街坊】架起“连心桥”，聆听“民心事”！龙岗街道开展“人大代表活动月”活动</title>
-<link>http://www.oeeee.com/html/202408/30/1527395.html</link>
-<guid>http://www.oeeee.com/html/202408/30/1527395.html</guid>
-<content:encoded><![CDATA[
-<p>今年7月，深圳市龙岗区人大龙岗街道工委聚焦“促进高质量发展 人大代表在行动”，联动市区级人大代表集中开展“人大代表活动月”主题活动。活动月期间，各级人大代表深入基层、深入群众，依法履职，充分发挥人大代表在践行全过程人民民主中的重要作用，为推动辖区高质量发展作出人大贡献。</p><p>自活动月启动以来，人大龙岗街道工委积极响应市区人大常委会的统一部署，聚焦高质量发展目标，组织市区级人大代表深入社区、企业、学校等一线，开展了一系列视察调研、座谈交流、服务群众等多元化履职活动。据统计，活动期间共收集各类民意问题15个，提出建设性建议11条，走访服务群众超过220人次，成功推动解决了15个与群众生活密切相关的实际问题。</p><p><strong>聚焦高质量发展，深入调研视察</strong></p><p>活动月期间，人大代表们紧紧围绕街道经济社会发展和人民群众切身利益、社会普遍关注的重大问题，积极开展视察调研、座谈交流等活动。在生态建设方面，人大代表们实地视察了龙岗湿地公园碧道、绿道建设及管养情况，督促相关单位解决建设中遇到的困难问题，有力推动了绿美龙岗的建设进程。此外，代表们还积极参与立法联系点建设，努力延伸人大代表履职触角，引导群众广泛参与立法工作，为构建更加完善的法律体系贡献力量。而在民生实事项目方面，代表们通过实地查看、听取汇报、现场询问等方式，对辖区内的学校建设、小区加装电梯等民生实事项目进行了全面监督，推动了项目的顺利实施。</p><p><strong>密切联系群众，倾听心声和诉求</strong></p><p>人大龙岗街道工委始终将群众的需求和诉求放在首位，积极开展人大代表服务联系群众活动。通过组织代表走进社区、走进企业、走进学校，开展义诊咨询、健康讲座、职工代表议事会等活动，代表们不仅为群众提供了实实在在的帮助和服务，还收集了大量的民意问题和建议，为政府决策提供了重要的参考。此外，工委还充分利用“人大代表网上社区联络站民意速办”平台，及时收集和转交群众的诉求，推动了群众诉求的快速解决。</p><p><strong>创新履职形式，打造品牌活动</strong></p><p>为激发代表履职动能，提升活动实效，人大龙岗街道工委在活动月期间推出了一系列内容丰富、形式新颖的亮点活动。在仙田外国语学校召开的“小小代表议事会”，以“沉浸式+体验式”的教育新模式，让学生亲历人大代表议事实践，增进了对人民代表大会会议制度和议事流程的理解。联合街道总工会举办的企业家代表说活动，则围绕企业发展面临的困境与出路等主题展开分享，引导企业家共话发展、共创未来。此外，还开展了新业态新就业群体关爱服务项目启动仪式暨夏日送清凉活动以及八一建军节慰问退伍军人活动，营造了良好的社会氛围。</p><p>“人大代表活动月”虽已落幕，但人大代表为民履职永不停歇。一场场视察调研、一条条代表建议、一次次接待走访，都凝聚着人大代表力量和智慧，推动着主题活动成果走深走实、落地见效。接下来，人大龙岗街道工委将继续组织人大代表开展各类履职活动，持续发挥“家、站、点”在基层治理中的连心桥、主阵地作用，用心用情打造代表履职的“殿堂”、选民反映诉求的“窗口”和代表选民互动的“舞台”，为全力建设街道“有为人大”开新局、谱新篇、展新貌贡献力量。</p><p><br /></p><div class="content-page"></div>
-]]></content:encoded>
-<pubDate>Fri, 30 Aug 2024 12:22:46 GMT</pubDate>
 </item>
 </channel>
 </rss>
