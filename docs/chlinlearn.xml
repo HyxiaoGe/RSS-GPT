@@ -4,6 +4,138 @@
 <title>值得一读技术博客</title>
 <link>https://daily-blog.chlinlearn.top/blogs/1</link>
 
+<item>
+<title>解析Go切片：为何按值传递时会发生改变？</title>
+<link>https://mp.weixin.qq.com/s/nzku7Oh6j_vuFv71wzQrQQ</link>
+<guid>https://mp.weixin.qq.com/s/nzku7Oh6j_vuFv71wzQrQQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>京东零售推荐系统可解释能力详解</title>
+<link>https://mp.weixin.qq.com/s/FS63NNvVYGTtibQsFm1bxg</link>
+<guid>https://mp.weixin.qq.com/s/FS63NNvVYGTtibQsFm1bxg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>glibc 内存分配与释放机制详解</title>
+<link>https://mp.weixin.qq.com/s/SAWeOC3aUlBUnekSdXGqOA</link>
+<guid>https://mp.weixin.qq.com/s/SAWeOC3aUlBUnekSdXGqOA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>UIStackView使用进阶</title>
+<link>https://mp.weixin.qq.com/s/1z93TrSNUDkvJLtdSs-71g</link>
+<guid>https://mp.weixin.qq.com/s/1z93TrSNUDkvJLtdSs-71g</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>货拉拉微信小程序体验优化总结</title>
+<link>https://mp.weixin.qq.com/s/qAu314jFsb8x5lbprRHjQw</link>
+<guid>https://mp.weixin.qq.com/s/qAu314jFsb8x5lbprRHjQw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>你的object可能没别人的快/小</title>
+<link>https://mp.weixin.qq.com/s/H8sM5X-x79RkYTXILF5m1A</link>
+<guid>https://mp.weixin.qq.com/s/H8sM5X-x79RkYTXILF5m1A</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>多任务学习在转转主搜精排的应用</title>
+<link>https://mp.weixin.qq.com/s/wtnERQpqfIKAjxCdabcqmw</link>
+<guid>https://mp.weixin.qq.com/s/wtnERQpqfIKAjxCdabcqmw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>深入Java泛型及其设计原则</title>
+<link>https://mp.weixin.qq.com/s/eV7u5j1LgdY0VG4ip93UKw</link>
+<guid>https://mp.weixin.qq.com/s/eV7u5j1LgdY0VG4ip93UKw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 06 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>基于图遍历的Flink任务画布模式下零代码开发实现方案</title>
+<link>https://mp.weixin.qq.com/s/sXj07k3se20T4LtoqmnLjg</link>
+<guid>https://mp.weixin.qq.com/s/sXj07k3se20T4LtoqmnLjg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 05 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Tue, 05 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>加锁失效，非锁之过，加之错也|京东零售供应链库存研发实践</title>
+<link>https://mp.weixin.qq.com/s/B_dWSOPefK6TvTr2u_bRwA</link>
+<guid>https://mp.weixin.qq.com/s/B_dWSOPefK6TvTr2u_bRwA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 05 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Tue, 05 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>万字长文讲透Go程序性能优化</title>
+<link>https://mp.weixin.qq.com/s/wLPfiJ0wKH3DrBJS4yxeHw</link>
+<guid>https://mp.weixin.qq.com/s/wLPfiJ0wKH3DrBJS4yxeHw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 05 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Tue, 05 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>将淘宝直播间融入H5页面的技术探索</title>
+<link>https://mp.weixin.qq.com/s/FmGP0oMy1ratWHAMeOGrkA</link>
+<guid>https://mp.weixin.qq.com/s/FmGP0oMy1ratWHAMeOGrkA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 05 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Tue, 05 Nov 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>基于IM场景下的Wasm初探：提升Web应用性能</title>
