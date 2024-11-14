@@ -2,7 +2,19 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/szjf</link>
+
+<item>
+<title>【深圳街坊】钟屋社区换季收纳，让老年生活焕发新活力</title>
+<link>http://www.oeeee.com/html/202411/14/1550324.html</link>
+<guid>http://www.oeeee.com/html/202411/14/1550324.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 14 Nov 2024 02:02:48 GMT</pubDate>
+<pubDate>Thu, 14 Nov 2024 02:02:48 GMT</pubDate>
+</item>
 
 <item>
 <title>【深圳街坊】悦见倾心 心动网谷 ——招商街道蛇口网谷园区交友联谊晚会</title>
@@ -10,9 +22,7 @@
 <guid>http://www.oeeee.com/html/202411/14/1550317.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Thu, 14 Nov 2024 01:15:44 GMT</pubDate>
 <pubDate>Thu, 14 Nov 2024 01:15:44 GMT</pubDate>
 </item>
 <item>
@@ -21,12 +31,9 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411141024405.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Thu, 14 Nov 2024 00:34:01 GMT</pubDate>
-<pubDate>Thu, 14 Nov 2024 00:34:01 GMT</pubDate>
 </item>
-
 <item>
 <title>【深新闻】国际篮联三人篮球大师赛收官战本周末深圳福田上演</title>
 <link>https://m.mp.oeeee.com/oe/BAAFRD0000202411131024248.html</link>
@@ -9008,24 +9015,6 @@
 
 ]]></content:encoded>
 <pubDate>Thu, 10 Oct 2024 10:26:49 GMT</pubDate>
-</item>
-<item>
-<title>【深圳街坊】倡议房东减免租金！深圳光明发起呼吁</title>
-<link>http://www.oeeee.com/html/202410/10/1539683.html</link>
-<guid>http://www.oeeee.com/html/202410/10/1539683.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Thu, 10 Oct 2024 10:23:56 GMT</pubDate>
-</item>
-<item>
-<title>【深圳街坊】西乡网格强化节中巡查 保障国庆假期安全</title>
-<link>http://www.oeeee.com/html/202410/10/1539681.html</link>
-<guid>http://www.oeeee.com/html/202410/10/1539681.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Thu, 10 Oct 2024 10:20:27 GMT</pubDate>
 </item>
 </channel>
 </rss>
