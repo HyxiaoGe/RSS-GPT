@@ -2,7 +2,41 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/szjf</link>
+
+<item>
+<title>【深新闻】重磅！深圳湾口岸、拱北口岸将试点启用“免出示证件”通道</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411151024957.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411151024957.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Fri, 15 Nov 2024 05:49:01 GMT</pubDate>
+<pubDate>Fri, 15 Nov 2024 05:49:01 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】航城街道九围社区开展“防艾新篇章，健康社区共绘”宣传活动</title>
+<link>http://www.oeeee.com/html/202411/15/1550751.html</link>
+<guid>http://www.oeeee.com/html/202411/15/1550751.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Fri, 15 Nov 2024 03:43:32 GMT</pubDate>
+<pubDate>Fri, 15 Nov 2024 03:43:32 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】松岗街道开展森林防火安全教育活动</title>
+<link>http://www.oeeee.com/html/202411/15/1550749.html</link>
+<guid>http://www.oeeee.com/html/202411/15/1550749.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Fri, 15 Nov 2024 03:39:16 GMT</pubDate>
+<pubDate>Fri, 15 Nov 2024 03:39:16 GMT</pubDate>
+</item>
 
 <item>
 <title>【深圳街坊】航城街道开展“十街十校”禁毒宣教活动</title>
@@ -10,12 +44,9 @@
 <guid>http://www.oeeee.com/html/202411/15/1550750.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Fri, 15 Nov 2024 03:41:48 GMT</pubDate>
-<pubDate>Fri, 15 Nov 2024 03:41:48 GMT</pubDate>
 </item>
-
 <item>
 <title>【深新闻】高交会来啦，罗湖亮出这些“黑科技”</title>
 <link>https://m.mp.oeeee.com/oe/BAAFRD0000202411151024829.html</link>
@@ -9006,15 +9037,6 @@
 
 ]]></content:encoded>
 <pubDate>Fri, 11 Oct 2024 11:55:47 GMT</pubDate>
-</item>
-<item>
-<title>【深圳街坊】光明楼市受省内外消费者青睐，国庆期间日均认购量较9月增长811%</title>
-<link>http://www.oeeee.com/html/202410/11/1540076.html</link>
-<guid>http://www.oeeee.com/html/202410/11/1540076.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Fri, 11 Oct 2024 11:49:48 GMT</pubDate>
 </item>
 </channel>
 </rss>
