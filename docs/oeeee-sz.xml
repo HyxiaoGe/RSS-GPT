@@ -2,7 +2,96 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/szjf</link>
+
+<item>
+<title>【深圳街坊】光明街道第六届“深圳企业家日”政企座谈会召开</title>
+<link>http://www.oeeee.com/html/202411/17/1551469.html</link>
+<guid>http://www.oeeee.com/html/202411/17/1551469.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 17 Nov 2024 09:40:27 GMT</pubDate>
+<pubDate>Sun, 17 Nov 2024 09:40:27 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】对话未来探索无限！光明区举行科普科幻文学交流季活动</title>
+<link>http://www.oeeee.com/html/202411/17/1551462.html</link>
+<guid>http://www.oeeee.com/html/202411/17/1551462.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 17 Nov 2024 09:31:16 GMT</pubDate>
+<pubDate>Sun, 17 Nov 2024 09:31:16 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】50亿资本助力科技创新！深圳光明区发布科创母基金</title>
+<link>http://www.oeeee.com/html/202411/17/1551461.html</link>
+<guid>http://www.oeeee.com/html/202411/17/1551461.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 17 Nov 2024 09:29:24 GMT</pubDate>
+<pubDate>Sun, 17 Nov 2024 09:29:24 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】“00后”退伍女兵携手创业“军式家政”，收获百万投资！</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411171025594.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411171025594.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 17 Nov 2024 09:13:01 GMT</pubDate>
+<pubDate>Sun, 17 Nov 2024 09:13:01 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】满满“含科量”！高交会上，光明科学城的光芒日益耀眼</title>
+<link>http://www.oeeee.com/html/202411/17/1551457.html</link>
+<guid>http://www.oeeee.com/html/202411/17/1551457.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 17 Nov 2024 09:12:30 GMT</pubDate>
+<pubDate>Sun, 17 Nov 2024 09:12:30 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】好……多人！光明超30家单位亮相高交会！</title>
+<link>http://www.oeeee.com/html/202411/17/1551452.html</link>
+<guid>http://www.oeeee.com/html/202411/17/1551452.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 17 Nov 2024 09:01:19 GMT</pubDate>
+<pubDate>Sun, 17 Nov 2024 09:01:19 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】“龙岗杯”三人篮球联赛预选赛收官 32支队伍晋级总决赛</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411171025569.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411171025569.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 17 Nov 2024 07:01:42 GMT</pubDate>
+<pubDate>Sun, 17 Nov 2024 07:01:42 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】龙岗多部门联动共推生态损害“化损为护”</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411171025567.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411171025567.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Sun, 17 Nov 2024 06:54:15 GMT</pubDate>
+<pubDate>Sun, 17 Nov 2024 06:54:15 GMT</pubDate>
+</item>
 
 <item>
 <title>【深新闻】无人机+灯光秀，惊喜助阵“吾城吾歌”粤语歌曲专场</title>
@@ -10,12 +99,9 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411171025520.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Sun, 17 Nov 2024 02:07:57 GMT</pubDate>
-<pubDate>Sun, 17 Nov 2024 02:07:57 GMT</pubDate>
 </item>
-
 <item>
 <title>【深新闻】孟晚舟寄语香港中文大学（深圳）毕业生：慎始敬终，恒心致胜</title>
 <link>https://m.mp.oeeee.com/oe/BAAFRD0000202411171025550.html</link>
@@ -9006,15 +9092,6 @@
 
 ]]></content:encoded>
 <pubDate>Mon, 14 Oct 2024 09:33:11 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】首届湾区半导体产业生态博览会即将在深开幕</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410141008901.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410141008901.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Mon, 14 Oct 2024 09:26:05 GMT</pubDate>
 </item>
 </channel>
 </rss>
