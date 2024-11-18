@@ -2,8 +2,52 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sznews</link>
 
+<item>
+<title>【深新闻】选址在这里！深圳“第二机场”要来了</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411181026010.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411181026010.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 10:57:01 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 10:57:01 GMT</pubDate>
+</item>
+<item>
+<title>【深圳24小时】新中国75周年华诞，宝安“交卷”</title>
+<link>https://sz.oeeee.com/html/202411/18/1551794.html</link>
+<guid>https://sz.oeeee.com/html/202411/18/1551794.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 10:39:09 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 10:39:09 GMT</pubDate>
+</item>
+<item>
+<title>【深圳24小时】“狗狗大战”，这个不一样的世界赛事在宝安举办</title>
+<link>https://sz.oeeee.com/html/202411/18/1551792.html</link>
+<guid>https://sz.oeeee.com/html/202411/18/1551792.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 10:38:13 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 10:38:13 GMT</pubDate>
+</item>
+<item>
+<title>【深圳24小时】打造社会急救“宝安模式”，更多“急救侠”们为生命护航</title>
+<link>https://sz.oeeee.com/html/202411/18/1551791.html</link>
+<guid>https://sz.oeeee.com/html/202411/18/1551791.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 10:37:19 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 10:37:19 GMT</pubDate>
+</item>
 
 <item>
 <title>【深新闻】举报成功有奖！深圳鼓励外卖骑手监督食品安全</title>
