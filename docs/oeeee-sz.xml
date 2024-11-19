@@ -2,7 +2,63 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/szjf</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+
+<item>
+<title>【深新闻】离“小雪”还有2天，深圳终于“脱单” ！出门要穿两件</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411191026323.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411191026323.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 19 Nov 2024 07:59:01 GMT</pubDate>
+<pubDate>Tue, 19 Nov 2024 07:59:01 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】去大梅沙游泳玩沙，千万别抽烟，2名男子沙滩吸烟被罚</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411191026248.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411191026248.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 19 Nov 2024 04:34:49 GMT</pubDate>
+<pubDate>Tue, 19 Nov 2024 04:34:49 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】西丽湖论坛专家学者围坐论道，多元视角共探AI未来</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411191026183.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411191026183.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 19 Nov 2024 02:59:19 GMT</pubDate>
+<pubDate>Tue, 19 Nov 2024 02:59:19 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】希玛第八届近视防控主题演讲赛落幕，这些少年“眼”讲家获奖</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411181025946.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411181025946.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 09:08:33 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 09:08:33 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】聚焦心脏康复及抗衰！深圳老年医学大会暨院士论坛在龙华召开</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411181025911.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411181025911.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 08:26:50 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 08:26:50 GMT</pubDate>
+</item>
 
 <item>
 <title>【深圳街坊】“榜样之光，照亮前行之路”——福城街道章阁社区劳模工匠面对面交流活动圆满落幕</title>
@@ -10,9 +66,7 @@
 <guid>http://www.oeeee.com/html/202411/19/1552073.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Tue, 19 Nov 2024 05:55:56 GMT</pubDate>
 <pubDate>Tue, 19 Nov 2024 05:55:56 GMT</pubDate>
 </item>
 <item>
@@ -21,12 +75,9 @@
 <guid>http://www.oeeee.com/html/202411/19/1552072.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Tue, 19 Nov 2024 05:51:18 GMT</pubDate>
-<pubDate>Tue, 19 Nov 2024 05:51:18 GMT</pubDate>
 </item>
-
 <item>
 <title>【深圳街坊】沙井：为垃圾桶“添彩”，扮靓城市“容颜”</title>
 <link>http://www.oeeee.com/html/202411/19/1552069.html</link>
@@ -9008,24 +9059,6 @@
 
 ]]></content:encoded>
 <pubDate>Wed, 16 Oct 2024 03:44:10 GMT</pubDate>
-</item>
-<item>
-<title>【深圳街坊】福永街道举办庆祝中国少年先锋队建队75周年主题队日活动</title>
-<link>http://www.oeeee.com/html/202410/16/1541315.html</link>
-<guid>http://www.oeeee.com/html/202410/16/1541315.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Wed, 16 Oct 2024 02:48:21 GMT</pubDate>
-</item>
-<item>
-<title>【深圳街坊】福永街道：开展清除“四害”行动 为居民营造良好环境</title>
-<link>http://www.oeeee.com/html/202410/16/1541314.html</link>
-<guid>http://www.oeeee.com/html/202410/16/1541314.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Wed, 16 Oct 2024 02:45:17 GMT</pubDate>
 </item>
 </channel>
 </rss>
