@@ -4,6 +4,127 @@
 <title>值得一读技术博客</title>
 <link>https://daily-blog.chlinlearn.top/blogs/1</link>
 
+<item>
+<title>Java性能测试利器：JMH入门与实践</title>
+<link>https://mp.weixin.qq.com/s/eX-m8D9CdEcx-9HOGKni2Q</link>
+<guid>https://mp.weixin.qq.com/s/eX-m8D9CdEcx-9HOGKni2Q</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>维度爆炸背景下uv计算在Feed业务的高效实践</title>
+<link>https://mp.weixin.qq.com/s/kHfc2783V5GV3dxWU95odQ</link>
+<guid>https://mp.weixin.qq.com/s/kHfc2783V5GV3dxWU95odQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>写一个Chrome浏览器插件</title>
+<link>https://mp.weixin.qq.com/s/5fcktmfi9d0vV6mOOwLD4Q</link>
+<guid>https://mp.weixin.qq.com/s/5fcktmfi9d0vV6mOOwLD4Q</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>“无”中生有：基于知识增强的RAG优化实践</title>
+<link>https://mp.weixin.qq.com/s/Za26pIabmREPn6u2bEkBUw</link>
+<guid>https://mp.weixin.qq.com/s/Za26pIabmREPn6u2bEkBUw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>淘宝乐园新人权益活动设计与实现</title>
+<link>https://mp.weixin.qq.com/s/lEnmFQX93k5f7O14uWSKGA</link>
+<guid>https://mp.weixin.qq.com/s/lEnmFQX93k5f7O14uWSKGA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>单体架构和微服务架构到底哪个好？</title>
+<link>https://mp.weixin.qq.com/s/XTHhcaHPcvu4qvgk6Gn8yg</link>
+<guid>https://mp.weixin.qq.com/s/XTHhcaHPcvu4qvgk6Gn8yg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>万字干货｜复杂表格多Agent方案：从LLM洞察、系统性思考到实践经验总结</title>
+<link>https://mp.weixin.qq.com/s/lEbFZTPCdFPW-X22253ZPg</link>
+<guid>https://mp.weixin.qq.com/s/lEbFZTPCdFPW-X22253ZPg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>B站直播S14保障全解析：高效保障技术实践</title>
+<link>https://mp.weixin.qq.com/s/Qci7QYgUtpvwsP8l7n1fpw</link>
+<guid>https://mp.weixin.qq.com/s/Qci7QYgUtpvwsP8l7n1fpw</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>什么才是架构师的真内核？</title>
+<link>https://mp.weixin.qq.com/s/v3F1pBdG444I9_3pi-718Q</link>
+<guid>https://mp.weixin.qq.com/s/v3F1pBdG444I9_3pi-718Q</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>淘宝亿级图片素材调度与处理的工程实践</title>
+<link>https://mp.weixin.qq.com/s/omYpc09kmmrQAmhYBHivHA</link>
+<guid>https://mp.weixin.qq.com/s/omYpc09kmmrQAmhYBHivHA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>58招聘B端“简单设计”-化繁为简，重塑用户体验</title>
+<link>https://mp.weixin.qq.com/s/TPVhKVAAW13D7ha0eu3sRg</link>
+<guid>https://mp.weixin.qq.com/s/TPVhKVAAW13D7ha0eu3sRg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>京东零售广告创意：基于人类反馈的可信赖图像生成</title>
