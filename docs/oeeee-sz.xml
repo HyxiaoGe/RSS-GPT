@@ -2,7 +2,41 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/szjf</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+
+<item>
+<title>【深新闻】深圳湾口岸试点“刷脸”通关！首批旅客通关体验很“丝滑”</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411201026633.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411201026633.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 20 Nov 2024 03:38:01 GMT</pubDate>
+<pubDate>Wed, 20 Nov 2024 03:38:01 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】夜经济：成功不取决于逛多久，而是氛围营造！</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411191026166.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411191026166.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Tue, 19 Nov 2024 02:35:08 GMT</pubDate>
+<pubDate>Tue, 19 Nov 2024 02:35:08 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】深圳唯一获奖案例公布！这场大会，释放重要信号</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411181025861.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411181025861.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 18 Nov 2024 07:23:37 GMT</pubDate>
+<pubDate>Mon, 18 Nov 2024 07:23:37 GMT</pubDate>
+</item>
 
 <item>
 <title>【深新闻】直播：控烟！今日龙华见</title>
@@ -10,12 +44,9 @@
 <guid>https://m.mp.oeeee.com/live/7742_4c7f4d47513ed73b.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Wed, 20 Nov 2024 02:37:34 GMT</pubDate>
-<pubDate>Wed, 20 Nov 2024 02:37:34 GMT</pubDate>
 </item>
-
 <item>
 <title>【深圳街坊】“小小规划师”来袭，TA们眼里的未来城市长这样！</title>
 <link>http://www.oeeee.com/html/202411/20/1552374.html</link>
@@ -9006,15 +9037,6 @@
 
 ]]></content:encoded>
 <pubDate>Thu, 17 Oct 2024 03:21:18 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】签约9个战新产业项目！深圳罗湖在京举办投资合作交流会</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410161009709.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410161009709.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Wed, 16 Oct 2024 12:00:19 GMT</pubDate>
 </item>
 </channel>
 </rss>
