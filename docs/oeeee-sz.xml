@@ -2,7 +2,52 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/szjf</link>
+
+<item>
+<title>【深圳街坊】光明区人力资源局筑牢网络安全“防火墙”</title>
+<link>http://www.oeeee.com/html/202411/21/1552816.html</link>
+<guid>http://www.oeeee.com/html/202411/21/1552816.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 21 Nov 2024 03:36:35 GMT</pubDate>
+<pubDate>Thu, 21 Nov 2024 03:36:35 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】赛桥生物携手细胞与基因机构、头部企业签订战略合作协议</title>
+<link>http://www.oeeee.com/html/202411/21/1552813.html</link>
+<guid>http://www.oeeee.com/html/202411/21/1552813.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 21 Nov 2024 03:31:10 GMT</pubDate>
+<pubDate>Thu, 21 Nov 2024 03:31:10 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】开工3年完成进度仅约22%，深圳观澜大道的结与解</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411211027039.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411211027039.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 21 Nov 2024 03:31:01 GMT</pubDate>
+<pubDate>Thu, 21 Nov 2024 03:31:01 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】蓝碳“深圳模式”全国推广第一单成交总金额超198万元</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411211027032.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411211027032.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 21 Nov 2024 03:15:52 GMT</pubDate>
+<pubDate>Thu, 21 Nov 2024 03:15:52 GMT</pubDate>
+</item>
 
 <item>
 <title>【深新闻】观澜大道改造的结与解</title>
@@ -10,12 +55,9 @@
 <guid>https://m.mp.oeeee.com/oe-special/3887_c882a0029e6e8e9d604cf61ce39d8732.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Thu, 21 Nov 2024 02:23:42 GMT</pubDate>
-<pubDate>Thu, 21 Nov 2024 02:23:42 GMT</pubDate>
 </item>
-
 <item>
 <title>【深新闻】“政企社”协同打造幼儿园儿童阅读空间，坪山慈善来助力</title>
 <link>https://m.mp.oeeee.com/oe/BAAFRD0000202411211026971.html</link>
@@ -9006,15 +9048,6 @@
 
 ]]></content:encoded>
 <pubDate>Fri, 18 Oct 2024 08:36:14 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】人大福田街道工委开展“两代表一委员”联合履职调研行动</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410181010480.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410181010480.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Fri, 18 Oct 2024 08:35:33 GMT</pubDate>
 </item>
 </channel>
 </rss>
