@@ -2,7 +2,52 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/szjf</link>
+
+<item>
+<title>【深圳街坊】夜幕下的守护者：大浪街道“夜巡宝贝”计划织密未成年人安全防护网</title>
+<link>http://www.oeeee.com/html/202411/28/1554825.html</link>
+<guid>http://www.oeeee.com/html/202411/28/1554825.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 28 Nov 2024 04:24:48 GMT</pubDate>
+<pubDate>Thu, 28 Nov 2024 04:24:48 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】招商街道开展“志愿同行，感恩有你”志愿者友好慰问活动</title>
+<link>http://www.oeeee.com/html/202411/28/1554822.html</link>
+<guid>http://www.oeeee.com/html/202411/28/1554822.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Thu, 28 Nov 2024 04:18:52 GMT</pubDate>
+<pubDate>Thu, 28 Nov 2024 04:18:52 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】福田获颁2024夜间经济优选城区！更有夜间经济观测站落地</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411271029061.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411271029061.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 27 Nov 2024 10:08:16 GMT</pubDate>
+<pubDate>Wed, 27 Nov 2024 10:08:16 GMT</pubDate>
+</item>
+<item>
+<title>【深新闻】指尖魔法萌趣童年 福城街道丹湖社区举行儿童友好活动</title>
+<link>https://m.mp.oeeee.com/oe/BAAFRD0000202411271029024.html</link>
+<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411271029024.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 27 Nov 2024 08:46:58 GMT</pubDate>
+<pubDate>Wed, 27 Nov 2024 08:46:58 GMT</pubDate>
+</item>
 
 <item>
 <title>【深新闻】深圳推动自动驾驶有多拼：建成智能网联汽车产业集群领跑全国</title>
@@ -10,9 +55,7 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411281029282.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Thu, 28 Nov 2024 03:16:01 GMT</pubDate>
 <pubDate>Thu, 28 Nov 2024 03:16:01 GMT</pubDate>
 </item>
 <item>
@@ -21,9 +64,7 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411281029227.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Thu, 28 Nov 2024 01:48:44 GMT</pubDate>
 <pubDate>Thu, 28 Nov 2024 01:48:44 GMT</pubDate>
 </item>
 <item>
@@ -32,9 +73,7 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411281029222.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Thu, 28 Nov 2024 01:37:13 GMT</pubDate>
 <pubDate>Thu, 28 Nov 2024 01:37:13 GMT</pubDate>
 </item>
 <item>
@@ -43,9 +82,7 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411281029211.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Thu, 28 Nov 2024 01:29:22 GMT</pubDate>
 <pubDate>Thu, 28 Nov 2024 01:29:22 GMT</pubDate>
 </item>
 <item>
@@ -54,9 +91,7 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411281029203.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Thu, 28 Nov 2024 01:12:49 GMT</pubDate>
 <pubDate>Thu, 28 Nov 2024 01:12:49 GMT</pubDate>
 </item>
 <item>
@@ -65,12 +100,9 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202411281029200.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Thu, 28 Nov 2024 00:56:50 GMT</pubDate>
-<pubDate>Thu, 28 Nov 2024 00:56:50 GMT</pubDate>
 </item>
-
 <item>
 <title>【深新闻】自动驾驶提速，深圳如何领跑？</title>
 <link>https://m.mp.oeeee.com/oe-special/3895_86493163ff5ee5fc4224ff28c769dfe4.html</link>
@@ -9016,60 +9048,6 @@
 
 ]]></content:encoded>
 <pubDate>Fri, 25 Oct 2024 10:07:53 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】打造新一代智慧交通系统！深圳市智能网联交通协会揭牌成立</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410251014341.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410251014341.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Fri, 25 Oct 2024 09:14:08 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】新进展！深圳这一综合治理工程完工后，将带来更宜居的生态</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410251014037.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410251014037.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Fri, 25 Oct 2024 07:32:53 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】深圳又救8人，AI谱曲演唱“救命神器”AED</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410251014002.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410251014002.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Fri, 25 Oct 2024 06:01:36 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】深圳市第十四届职工技术创新运动会暨眼镜验光员技能竞赛落幕</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410251013985.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410251013985.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Fri, 25 Oct 2024 05:14:40 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】“成都到深圳”用时1分钟？网约车司机骗取车费被警方抓获</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410251014011.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410251014011.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Fri, 25 Oct 2024 06:30:02 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】歌星腾格尔热唱童年动画儿歌？80后90后网友直呼太上头</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410251014010.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410251014010.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Fri, 25 Oct 2024 06:30:02 GMT</pubDate>
 </item>
 </channel>
 </rss>
