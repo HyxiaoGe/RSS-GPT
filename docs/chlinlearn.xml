@@ -4,6 +4,72 @@
 <title>值得一读技术博客</title>
 <link>https://daily-blog.chlinlearn.top/blogs/1</link>
 
+<item>
+<title>​B 站基于 Iceberg 的流批一体的探索和实践</title>
+<link>https://mp.weixin.qq.com/s/CHZWcWao42_aI43U9c-A3g</link>
+<guid>https://mp.weixin.qq.com/s/CHZWcWao42_aI43U9c-A3g</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>StarRocks存算分离在得物的降本增效实践</title>
+<link>https://mp.weixin.qq.com/s/9fvVtInwiR93GGVR8yarLA</link>
+<guid>https://mp.weixin.qq.com/s/9fvVtInwiR93GGVR8yarLA</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>RAG检索增强生成技术介绍与实战</title>
+<link>https://mp.weixin.qq.com/s/2si50Wu__ZMEkIt2i_MvhQ</link>
+<guid>https://mp.weixin.qq.com/s/2si50Wu__ZMEkIt2i_MvhQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>大促实战之应用启动速度优化 | 京东零售技术实践</title>
+<link>https://mp.weixin.qq.com/s/OR4uEO3gC_AnJJnqNAJIsg</link>
+<guid>https://mp.weixin.qq.com/s/OR4uEO3gC_AnJJnqNAJIsg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>异地多活架构进阶：如何解决写后立即读场景问题？</title>
+<link>https://mp.weixin.qq.com/s/ymLxvExLhtW1ZqYVPnf3kg</link>
+<guid>https://mp.weixin.qq.com/s/ymLxvExLhtW1ZqYVPnf3kg</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>国际化本地化测试新探索</title>
+<link>https://mp.weixin.qq.com/s/IB6PI4fKTPmUzPnAgKxLYQ</link>
+<guid>https://mp.weixin.qq.com/s/IB6PI4fKTPmUzPnAgKxLYQ</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
+</item>
 
 <item>
 <title>基于Redis内核的热key统计实现方案</title>
