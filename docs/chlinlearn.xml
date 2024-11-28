@@ -4,15 +4,14 @@
 <title>值得一读技术博客</title>
 <link>https://daily-blog.chlinlearn.top/blogs/1</link>
 
+
 <item>
 <title>​B 站基于 Iceberg 的流批一体的探索和实践</title>
 <link>https://mp.weixin.qq.com/s/CHZWcWao42_aI43U9c-A3g</link>
 <guid>https://mp.weixin.qq.com/s/CHZWcWao42_aI43U9c-A3g</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 <pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 </item>
 <item>
@@ -21,9 +20,7 @@
 <guid>https://mp.weixin.qq.com/s/9fvVtInwiR93GGVR8yarLA</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 <pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 </item>
 <item>
@@ -32,9 +29,7 @@
 <guid>https://mp.weixin.qq.com/s/2si50Wu__ZMEkIt2i_MvhQ</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 <pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 </item>
 <item>
@@ -43,9 +38,7 @@
 <guid>https://mp.weixin.qq.com/s/OR4uEO3gC_AnJJnqNAJIsg</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 <pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 </item>
 <item>
@@ -54,9 +47,7 @@
 <guid>https://mp.weixin.qq.com/s/ymLxvExLhtW1ZqYVPnf3kg</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 <pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 </item>
 <item>
@@ -65,12 +56,9 @@
 <guid>https://mp.weixin.qq.com/s/IB6PI4fKTPmUzPnAgKxLYQ</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
-<pubDate>Wed, 27 Nov 2024 16:00:00 GMT</pubDate>
 </item>
-
 <item>
 <title>基于Redis内核的热key统计实现方案</title>
 <link>https://mp.weixin.qq.com/s/RWQzLZq6X7B5ThaKX6U4SQ</link>
