@@ -2,7 +2,30 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/szjf</link>
+
+<item>
+<title>【深圳街坊】石岩街道举行国际志愿者日主题活动</title>
+<link>http://www.oeeee.com/html/202412/02/1555911.html</link>
+<guid>http://www.oeeee.com/html/202412/02/1555911.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 02 Dec 2024 03:00:07 GMT</pubDate>
+<pubDate>Mon, 02 Dec 2024 03:00:07 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】航城街道后瑞社区乐活集市温情满满，便民服务暖人心</title>
+<link>http://www.oeeee.com/html/202412/02/1555908.html</link>
+<guid>http://www.oeeee.com/html/202412/02/1555908.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Mon, 02 Dec 2024 02:58:44 GMT</pubDate>
+<pubDate>Mon, 02 Dec 2024 02:58:44 GMT</pubDate>
+</item>
 
 <item>
 <title>【深新闻】前体操运动员吴柳芳社交平台账号已解封，一夜涨粉142万！</title>
@@ -10,12 +33,9 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202412021030519.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Mon, 02 Dec 2024 02:25:02 GMT</pubDate>
-<pubDate>Mon, 02 Dec 2024 02:25:02 GMT</pubDate>
 </item>
-
 <item>
 <title>【深新闻】45位两院院士出席！国家重大科研仪器成果在深发布</title>
 <link>https://m.mp.oeeee.com/oe/BAAFRD0000202412011030441.html</link>
@@ -9006,15 +9026,6 @@
 
 ]]></content:encoded>
 <pubDate>Tue, 29 Oct 2024 11:05:59 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】2024“我的青春有版权”创意设计大赛举办</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410291017338.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410291017338.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Tue, 29 Oct 2024 09:31:29 GMT</pubDate>
 </item>
 </channel>
 </rss>
