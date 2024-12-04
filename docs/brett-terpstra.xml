@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>BrettTerpstra.com - The Mad Science of Brett Terpstra</title>
-<link>http://localhost:4000/</link>
+<link>https://brettterpstra.com/</link>
+
 
 <item>
 <title>Web Excursions for December 5th, 2024</title>
@@ -10,9 +11,7 @@
 <guid>https://brett.trpstra.net/link/535/16910885/web-excursions-for-december-5th-2024</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>2024-12-05T08:00:00-06:00</pubDate>
 <pubDate>2024-12-05T08:00:00-06:00</pubDate>
 </item>
 <item>
@@ -21,9 +20,7 @@
 <guid>https://brett.trpstra.net/link/535/16910886/suspicious-package-keeps-on-tickin</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>2024-12-04T10:19:00-06:00</pubDate>
 <pubDate>2024-12-04T10:19:00-06:00</pubDate>
 </item>
 <item>
@@ -32,9 +29,7 @@
 <guid>https://brett.trpstra.net/link/535/16910887/key-repeat-in-sequoia</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>2024-12-03T08:00:00-06:00</pubDate>
 <pubDate>2024-12-03T08:00:00-06:00</pubDate>
 </item>
 <item>
@@ -43,9 +38,7 @@
 <guid>https://brett.trpstra.net/link/535/16910890/a-health-update</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>2024-11-28T08:09:00-06:00</pubDate>
 <pubDate>2024-11-28T08:09:00-06:00</pubDate>
 </item>
 <item>
@@ -54,9 +47,7 @@
 <guid>https://brett.trpstra.net/link/535/16910891/web-excursions-for-november-28th-2024</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>2024-11-28T07:14:00-06:00</pubDate>
 <pubDate>2024-11-28T07:14:00-06:00</pubDate>
 </item>
 <item>
@@ -65,12 +56,9 @@
 <guid>https://brett.trpstra.net/link/535/16910892/web-excursions-for-november-25th-2024</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>2024-11-25T12:00:00-06:00</pubDate>
-<pubDate>2024-11-25T12:00:00-06:00</pubDate>
 </item>
-
 <item>
 <title>Suspicious Package keeps on tickin'</title>
 <link>https://brett.trpstra.net/link/535/16910822/suspicious-package-keeps-on-tickin</link>
