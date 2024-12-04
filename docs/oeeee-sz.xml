@@ -2,7 +2,30 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>南方都市报奥一网</title>
-<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/sz</link>
+<link>https://www.oeeee.com/api/channel.php?s=/index/index/channel/szjf</link>
+
+<item>
+<title>【深圳街坊】西乡街道：沉浸式交通体验 解锁安全出行“密码”</title>
+<link>http://www.oeeee.com/html/202412/04/1556580.html</link>
+<guid>http://www.oeeee.com/html/202412/04/1556580.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 04 Dec 2024 03:07:31 GMT</pubDate>
+<pubDate>Wed, 04 Dec 2024 03:07:31 GMT</pubDate>
+</item>
+<item>
+<title>【深圳街坊】广州市白云区、增城区人武部赴大浪街道武装部，参观基层武装建设规范化建设</title>
+<link>http://www.oeeee.com/html/202412/04/1556578.html</link>
+<guid>http://www.oeeee.com/html/202412/04/1556578.html</guid>
+<content:encoded><![CDATA[
+
+
+]]></content:encoded>
+<pubDate>Wed, 04 Dec 2024 03:00:12 GMT</pubDate>
+<pubDate>Wed, 04 Dec 2024 03:00:12 GMT</pubDate>
+</item>
 
 <item>
 <title>【深新闻】再会，过山车！香蜜湖的这个地标已拆除，曾是“世界之最”…</title>
@@ -10,12 +33,9 @@
 <guid>https://m.mp.oeeee.com/oe/BAAFRD0000202412041031285.html</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
 <pubDate>Wed, 04 Dec 2024 02:24:01 GMT</pubDate>
-<pubDate>Wed, 04 Dec 2024 02:24:01 GMT</pubDate>
 </item>
-
 <item>
 <title>【深新闻】锂电池“血液”龙头 “双料冠军”新宙邦从深圳坪山走向世界</title>
 <link>https://m.mp.oeeee.com/oe/BAAFRD0000202412021030705.html</link>
@@ -9006,15 +9026,6 @@
 
 ]]></content:encoded>
 <pubDate>Thu, 31 Oct 2024 04:59:51 GMT</pubDate>
-</item>
-<item>
-<title>【深新闻】24小时专业生活照护，深圳多家医院提供“无陪护病房”服务</title>
-<link>https://m.mp.oeeee.com/oe/BAAFRD0000202410311019715.html</link>
-<guid>https://m.mp.oeeee.com/oe/BAAFRD0000202410311019715.html</guid>
-<content:encoded><![CDATA[
-
-]]></content:encoded>
-<pubDate>Thu, 31 Oct 2024 03:54:19 GMT</pubDate>
 </item>
 </channel>
 </rss>
